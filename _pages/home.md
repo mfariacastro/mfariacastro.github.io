@@ -7,8 +7,6 @@ redirect_from:
   - /_pages/index.md
 ---
 
-## Welcome!
-
 Research Economist
 Skip to content
 Home Research Teaching
