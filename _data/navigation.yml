@@ -1,11 +1,11 @@
 # main links
 docs:
   - title: "Home and CV"
-    url: https://mfariacastro.github.io/index.html
+    url: /_pages/index.md
   - title: "Research"
-    url: /research/
+    url: /_pages/research.md
   - title: "Teaching"
-    url: /teaching/
+    url: /_pages/teaching.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
