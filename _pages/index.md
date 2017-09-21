@@ -2,6 +2,8 @@
 permalink: /
 title: "Welcome!"
 author_profile: #false
+sidebar:
+  nav: "docs"
 ---
 
 Research Economist
