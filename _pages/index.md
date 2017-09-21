@@ -2,8 +2,8 @@
 permalink: /
 title: "Welcome!"
 author_profile: #false
-sidebar:
-  nav: "docs"
+#sidebar:
+#  nav: "docs"
 ---
 <img style="float: right;" src="/assets/faria-e-castro.jpg">
 
