@@ -29,4 +29,4 @@ I have mostly taught courses related to macroeconomics and banking, at both the 
 # Notes
 As a student, I wrote notes for the third quarter of the Macroeconomics Ph.D. core sequence at NYU, taught by Professor Ricardo Lagos. These notes have not been revised for a long time and may contain (my) mistakes, so use them at your own discretion.
 
-The material covered is: asset pricing; classical monetary theory; search and matching in a labor context; and an introduction to optimal taxation. You can download these notes [here](https://18798-presscdn-pagely.netdna-ssl.com/mfcastro/wp-content/uploads/sites/1933/2015/05/notes_macro_oct2012.pdf).
+The material covered is: asset pricing; classical monetary theory; search and matching in a labor context; and an introduction to optimal taxation. You can download these notes [here](https://www.dropbox.com/s/m2pfvqzfn8ojv75/notes_macro_oct2012.pdf?raw=1).
