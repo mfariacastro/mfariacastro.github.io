@@ -1,11 +1,11 @@
 # main links
-docs:
-  - title: "Home and CV"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
+#docs:
+  # - title: "Home and CV"
+  #   url: /
+  # - title: "Research"
+  #   url: /research/
+  # - title: "Teaching"
+  #   url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
