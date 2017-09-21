@@ -1,7 +1,7 @@
 # main links
 docs:
   - title: "Home and CV"
-    url: /_pages/index.md
+    url: /_pages/home.md
   - title: "Research"
     url: /_pages/research.md
   - title: "Teaching"
