@@ -3,9 +3,6 @@ permalink: /
 title: "Home and CV"
 excerpt: "About me"
 author_profile: #false
-redirect_from: 
-  - /index/
-  - /index.html
 ---
 
 ## Welcome!
