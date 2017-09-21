@@ -23,7 +23,6 @@ layout: splash
 
 4. [Risk Incentives in an Interbank Network](https://www.dropbox.com/s/5waoj8jmme66xzr/interbank_networks.pdf?raw=1) 
 
----
 
 ## Publications
 1. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://www.dropbox.com/s/cr6nji4uhab70hz/runs_versus_lemons.pdf?raw=1)  
@@ -39,7 +38,6 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Studies in Economics and Finance*, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
----
 
 ## Work in Progress
 1. The fiscal multiplier of financial sector interventions: evidence from U.S. states  
