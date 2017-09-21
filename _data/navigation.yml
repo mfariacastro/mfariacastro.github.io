@@ -4,7 +4,7 @@ main:
   url: https://mfariacastro.github.io/index.html
   - title: "Research"
   url: /research/
-  = title: "Teaching"
+  - title: "Teaching"
   url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
