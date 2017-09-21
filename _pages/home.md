@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Home and CV"
-excerpt: "About me"
+title: "Welcome!"
 author_profile: #false
 ---
 
