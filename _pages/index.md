@@ -8,6 +8,7 @@ layout: splash
 ---
 <img style="float: right;" src="/assets/faria-e-castro.jpg">
 
+**Welcome!**  
 I am an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
 
 My research focuses on macroeconomics, fiscal policy, credit guarantees, and financial institutions.
