@@ -5,6 +5,7 @@ author_profile: #false
 sidebar:
   nav: "docs"
 ---
+<img style="float: right;" src="/assets/faria-e-castro.jpg">
 
 I am an Economist at the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
 
