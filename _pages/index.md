@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome!"
 author_profile: #false
+layout: splash
 #sidebar:
 #  nav: "docs"
 ---
