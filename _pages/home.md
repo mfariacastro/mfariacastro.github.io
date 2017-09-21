@@ -2,6 +2,9 @@
 permalink: /
 title: "Welcome!"
 author_profile: #false
+redirect_from: 
+  - /_pages/index.html
+  - /_pages/index.md
 ---
 
 ## Welcome!
