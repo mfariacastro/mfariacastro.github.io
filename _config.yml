@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Faria-e-Castro"
-  avatar           : "/_assets/faria-e-castro.jpg"
+  avatar           : "/assets/faria-e-castro.jpg"
   bio              : "Research Economist @ St. Louis Fed"
   location         : "St. Louis, MO"
   email            :
