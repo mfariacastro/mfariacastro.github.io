@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home and CV"
-  url: https://mfariacastro.github.io/index.html
+    url: https://mfariacastro.github.io/index.html
   - title: "Research"
-  url: /research/
+    url: /research/
   - title: "Teaching"
-  url: /teaching/
+    url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
