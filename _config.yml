@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 # Site Settings
 locale                   : "en"
 title                    : "Miguel Faria-e-Castro"
-title_separator          : "|"
+title_separator          : "\\"
 name                     : "Miguel Faria-e-Castro"
 description              : "Research Economist"
 url                      : "https://mfariacastro.github.io"
