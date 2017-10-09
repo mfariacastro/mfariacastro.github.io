@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Economist"
+title: "Homepage"
 author_profile: #false
 layout: splash
 #sidebar:
