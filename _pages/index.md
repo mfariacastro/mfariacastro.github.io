@@ -16,7 +16,7 @@ My research focuses on macroeconomics, fiscal policy, credit guarantees, and fin
 
 I graduated from [New York University](http://as.nyu.edu/econ.html) with a Ph.D. in Economics in 2017.
 
-[**Curriculum Vitae**](https://www.dropbox.com/s/i3wetrmhdtujyr7/CV_FariaeCastro.pdf?raw=1)
+[**Curriculum Vitae**](http://fariaecastro.net/assets/CV_FariaeCastro.pdf)
 
 **Contact Information**  
 Research Divison  
