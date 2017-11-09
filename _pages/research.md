@@ -17,6 +17,7 @@ layout: splash
 2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://www.dropbox.com/s/g04qz4536iadlua/CCF.pdf?raw=1)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Online Appendix](https://www.dropbox.com/s/rmr9ba6jd8sgsla/CCF_OA.pdf?raw=1)
 
 3. [A Note on Information Disclosure and Adverse Selection](https://www.dropbox.com/s/9zgcv7a8h38fcu0/Note_Information_Disclosure.pdf?raw=1)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
