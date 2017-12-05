@@ -41,7 +41,7 @@ layout: splash
 
 
 ## Work in Progress
-1. The fiscal multiplier of financial sector interventions: evidence from U.S. states  
+1. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. states  
 
 2. The Nonlinear Effects of Fiscal Policy <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Pedro Brinca, Miguel Ferreira and Hans Holter
