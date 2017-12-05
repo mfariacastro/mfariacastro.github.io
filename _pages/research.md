@@ -14,7 +14,7 @@ layout: splash
 1. [Fiscal Multipliers and Financial Crises](https://www.dropbox.com/s/j1bwz2c07qx5ep3/fariaecastro_2017.pdf?raw=1)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)  
 
-2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://www.dropbox.com/s/g04qz4536iadlua/CCF.pdf?raw=1)  
+2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://www.dropbox.com/s/g04qz4536iadlua/CCF.pdf?raw=1) (updated November 2017) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Online Appendix](https://www.dropbox.com/s/rmr9ba6jd8sgsla/CCF_OA.pdf?raw=1)
@@ -27,7 +27,7 @@ layout: splash
 
 ## Publications
 1. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://www.dropbox.com/s/cr6nji4uhab70hz/runs_versus_lemons.pdf?raw=1)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Review of Economic Studies*, 2016  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Review of Economic Studies*, 2017  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) 
 
 2. [The Portuguese banking system during the sovereign debt crisis](https://www.dropbox.com/s/ef99liyrfjt1qx1/CCF2015.pdf?raw=1)  
@@ -43,7 +43,7 @@ layout: splash
 ## Work in Progress
 1. The fiscal multiplier of financial sector interventions: evidence from U.S. states  
 
-2. On the Non-Linearity of Fiscal Multipliers  
+2. The Nonlinear Effects of Fiscal Policy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Pedro Brinca, Miguel Ferreira and Hans Holter
 
 
