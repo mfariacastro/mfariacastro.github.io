@@ -9,7 +9,7 @@ layout: splash
 
 # Teaching
 
-I have mostly taught courses related to macroeconomics and banking, at both the graduate (Ph.D. and MBA) and undergraduate levels.
+I have mostly taught courses related to macroeconomics and banking, both at the graduate (Ph.D. and MBA) and undergraduate levels.
 
 *Ph.D. Teaching*
 1. International Macroeconomics and Finance (NYU Stern, Fall 2014), Grader for Prof. T. Philippon
@@ -20,10 +20,10 @@ I have mostly taught courses related to macroeconomics and banking, at both the 
 2. Advanced Macroeconomics (NYU Stern, Fall 2012), Grader for Profs. L. Ljungqvist and T. Sargent
 
 *Undergraduate Teaching*
-1. Intermediate Macroeconomics (NYU, Spring 2016 and Spring 2015; U. Nova, Spring 2012 and Spring 2011)
+1. Intermediate Macroeconomics (NYU, Spring 2016 and Spring 2015; Nova SBE, Spring 2012 and Spring 2011)
 2. Money and Banking (NYU, Fall 2015)
 3. Risk Management in Financial Institutions (NYU Stern, Fall 2014)
-4. Calculus II (U. Nova, Fall 2011 and Fall 2010)
+4. Calculus II (Nova SBE, Fall 2011 and Fall 2010)
  
 
 # Notes
