@@ -11,7 +11,7 @@ layout: splash
 
 ## Working Papers
 
-1. [Fiscal Multipliers and Financial Crises](https://mfariacastro.github.io/files/fariaecastro_2017.pdf)  
+1. [Fiscal Multipliers and Financial Crises](https://mfariacastro.github.io/files/fariaecastro_2018.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)  
 
 2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://mfariacastro.github.io/files/CCF.pdf) (updated November 2017) <br/>
