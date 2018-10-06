@@ -6,6 +6,10 @@ main:
      url: /research/
    - title: "Teaching"
      url: /teaching/
+   - title: "Policy"
+     url: /policy/
+   - title: "Opinion"
+     url: /oped/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
