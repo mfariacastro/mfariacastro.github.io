@@ -9,7 +9,8 @@ layout: splash
 # Policy
 
 ## Economic Synopsis
-1. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018 No. 22 
+1. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018 No. 22  
+Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2018/october/fiscal-costs-great-recession)
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018
