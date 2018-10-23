@@ -8,7 +8,7 @@ layout: splash
 ---
 # Policy
 
-## Economic Synopsis
+## Economic Synopses
 1. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018 No. 22  
 Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2018/october/fiscal-costs-great-recession)
 
