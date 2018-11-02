@@ -28,7 +28,7 @@ layout: splash
 4. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)  (updated October 2018) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)  
 
-5. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf) (updated August 2018) <br/>
+5. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf) (updated November 2018) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Revise and Resubmit, *Journal of Monetary Economics*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Online Appendix](https://mfariacastro.github.io/files/CCF_OA.pdf) <br/>
