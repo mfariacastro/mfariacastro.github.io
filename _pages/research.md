@@ -31,7 +31,6 @@ layout: splash
 5. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf), November 2018<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Revise and Resubmit, **Journal of Monetary Economics**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Online Appendix](https://mfariacastro.github.io/files/CCF_OA.pdf) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/) 
 
 6. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf)  
