@@ -34,10 +34,10 @@ layout: splash
 6. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), October 2018 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
-7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf)  
+7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015 <br/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf) 
+8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
 
 
 ## Work in Progress
@@ -49,5 +49,3 @@ layout: splash
 
 3. Quantitative Tightening <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Vadim Elenev](https://sites.google.com/site/vadimelenevfinance/) and [Dan Greenwald](http://www.dlgreenwald.com/)
-
-4. A Quantitative Analysis of CCyB
