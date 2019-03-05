@@ -29,13 +29,15 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Working Papers
-5. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), October 2018 <br/>
+5. [A Quantitative Analysis of CCyB](http://fariaecastro.net/assets/CCyB_March2019.pdf), March 2019
+
+6. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), October 2018 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
-6. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf)  
+7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-7. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf) 
+8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf) 
 
 
 ## Work in Progress
