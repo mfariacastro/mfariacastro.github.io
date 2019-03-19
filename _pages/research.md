@@ -31,21 +31,21 @@ layout: splash
 ## Working Papers
 5. [A Quantitative Analysis of CCyB](http://fariaecastro.net/assets/CCyB_March2019.pdf), March 2019
 
-6. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), October 2018<br/>
+6. [The Nonlinear Effects of Fiscal Policy](http://fariaecastro.net/assets/NonLinFiscalPolicy_March2019.pdf), March 2019<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
+
+7. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), October 2018<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
-7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
+8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
+9. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
 
 
 ## Work in Progress
-1. A Macroeconomic Model of Zombies <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Juan Sanchez](https://sites.google.com/view/juanmsanchezweb/home)
-
-2. The Nonlinear Effects of Fiscal Policy <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/) 
-
-3. Quantitative Tightening <br/>
+10. Quantitative Tightening <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Vadim Elenev](https://sites.google.com/site/vadimelenevfinance/) and [Dan Greenwald](http://www.dlgreenwald.com/)
+
+11. A Macroeconomic Model of Zombies <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Juan Sanchez](https://sites.google.com/view/juanmsanchezweb/home)
