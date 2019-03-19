@@ -28,7 +28,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Studies in Economics and Finance**, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
-## Working Papers
+ ## Working Papers
 5. [A Quantitative Analysis of CCyB](http://fariaecastro.net/assets/CCyB_March2019.pdf), March 2019
 
 6. [The Nonlinear Effects of Fiscal Policy](http://fariaecastro.net/assets/NonLinFiscalPolicy_March2019.pdf), March 2019<br/> 
@@ -43,7 +43,7 @@ layout: splash
 9. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
 
 
-## Work in Progress
+ ## Work in Progress
 10. Quantitative Tightening <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Vadim Elenev](https://sites.google.com/site/vadimelenevfinance/) and [Dan Greenwald](http://www.dlgreenwald.com/)
 
