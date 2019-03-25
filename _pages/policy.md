@@ -26,6 +26,7 @@ layout: splash
 3. [How Risky are Government Intervention Programs?](https://www.stlouisfed.org/on-the-economy/2018/august/how-risky-government-intervention-programs), On the Economy, August 2018
 4. [Fed Payments to Treasury and Rising Interest Rates](https://www.stlouisfed.org/on-the-economy/2018/september/fed-payments-treasury-rising-interest-rates), On the Economy, September 2018
 5. [Domestic Debt Before and After the Great Recession](https://www.stlouisfed.org/on-the-economy/2018/october/domestic-debt-before-after-great-recession), On the Economy, October 2018
+6. [Is the financial sector becoming more productive?](https://fredblog.stlouisfed.org/2019/03/is-the-financial-sector-becoming-more-productive/), FRED Blog, March 2019
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
