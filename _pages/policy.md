@@ -9,11 +9,15 @@ layout: splash
 # Policy
 
 ## Economic Synopses
-1. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018, No. 22  
+1. [Can Countercyclical Capital Buffers Help Prevent a Financial Crisis?](https://research.stlouisfed.org/publications/economic-synopses/2019/06/21/can-countercyclical-capital-buffers-help-prevent-a-financial-crisis), Economic Synopsis, 2019, No. 15  
+
+   Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2019/august/countercyclical-capital-buffers-financial-crises)
+   
+2. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018, No. 22  
 
    Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2018/october/fiscal-costs-great-recession)
  
-2. [Rising Interest Rates, the Deficit, and Public Debt](https://research.stlouisfed.org/publications/economic-synopses/2018/11/16/rising-interest-rates-the-deficit-and-public-debt/), Economic Synopsis, 2018, No. 28
+3. [Rising Interest Rates, the Deficit, and Public Debt](https://research.stlouisfed.org/publications/economic-synopses/2018/11/16/rising-interest-rates-the-deficit-and-public-debt/), Economic Synopsis, 2018, No. 28
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018
@@ -27,6 +31,9 @@ layout: splash
 4. [Fed Payments to Treasury and Rising Interest Rates](https://www.stlouisfed.org/on-the-economy/2018/september/fed-payments-treasury-rising-interest-rates), On the Economy, September 2018
 5. [Domestic Debt Before and After the Great Recession](https://www.stlouisfed.org/on-the-economy/2018/october/domestic-debt-before-after-great-recession), On the Economy, October 2018
 6. [Is the financial sector becoming more productive?](https://fredblog.stlouisfed.org/2019/03/is-the-financial-sector-becoming-more-productive/), FRED Blog, March 2019
+7. [Are firms too attached to bonds?](https://fredblog.stlouisfed.org/2019/07/are-firms-too-attached-to-bonds/), FRED Blog, July 2019
+8. [Corporate Debt Since the Great Recession](https://www.stlouisfed.org/on-the-economy/2019/august/corporate-debt-great-recession), On the Economy, August 2019
+9. [Gauging returns and risk in the bond market](https://fredblog.stlouisfed.org/2019/09/gauging-returns-and-risk-in-the-bond-market/), FRED Blog, September 2019
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
