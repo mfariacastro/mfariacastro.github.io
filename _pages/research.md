@@ -30,7 +30,7 @@ layout: splash
 
 ## Working Papers
 5. [A Quantitative Analysis of Countercyclical Capital Buffers](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), May 2019<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global](https://platform.mi.spglobal.com/web/client?auth=inherit&overridecdc=1&#news/article?id=53971866&KeyProductLinkType=6)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
 6. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
