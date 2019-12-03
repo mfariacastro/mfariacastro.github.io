@@ -51,5 +51,5 @@ layout: splash
 11. A Macroeconomic Model of Zombies <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Juan Sanchez](https://sites.google.com/view/juanmsanchezweb/home)
 
-12. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States
+12. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rong Li](http://rongli.weebly.com/) and [Nuno Paixao](https://sites.google.com/view/nunopaixao/)
