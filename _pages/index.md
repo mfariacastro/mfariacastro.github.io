@@ -12,7 +12,7 @@ layout: splash
 
 I am an Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
 
-My research focuses on macroeconomics, fiscal policy, credit guarantees, and financial institutions.
+My research focuses on macroeconomics and financial institutions.
 
 I graduated from [New York University](http://as.nyu.edu/econ.html) with a Ph.D. in Economics in 2017.
 
