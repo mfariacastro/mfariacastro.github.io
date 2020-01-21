@@ -6,7 +6,7 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
-# Policy
+# Policy writings and publications
 
 ## Economic Synopses
 1. [Can Countercyclical Capital Buffers Help Prevent a Financial Crisis?](https://research.stlouisfed.org/publications/economic-synopses/2019/06/21/can-countercyclical-capital-buffers-help-prevent-a-financial-crisis), Economic Synopsis, 2019, No. 15  
@@ -38,3 +38,4 @@ layout: splash
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
 2. [Fiscal Policy and Inequality](https://www.stlouisfed.org/timely-topics/fiscal-policys-link-to-inequality), Timely Topics Podcast, September 2018
+3. [Spillovers 13 (Banco de Portugal)](https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/spillovers_jan2020.pdf), Comments on two articles published by Banco de Portugal economists, January 2020
