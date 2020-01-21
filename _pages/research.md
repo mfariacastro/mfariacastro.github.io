@@ -29,13 +29,13 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Working Papers
-5. [A Quantitative Analysis of Countercyclical Capital Buffers](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), May 2019<br/>
+5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), January 2020 (submitted)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
 6. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
 
-7. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), June 2019<br/>
+7. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), June 2019 (submitted)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
 8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
