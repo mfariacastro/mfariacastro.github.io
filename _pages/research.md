@@ -29,7 +29,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Book Chapters
-5. The Krugman-Macedo Diagram Revisited
+5. The Krugman-Macedo Diagram Revisited <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, forthcoming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Miguel Lebre de Freitas](https://mlebredefreitas.wordpress.com/) 
 
