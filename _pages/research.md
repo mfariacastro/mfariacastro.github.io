@@ -28,28 +28,33 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Studies in Economics and Finance**, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
+## Book Chapters
+5. [The Krugman-Macedo Diagram Revisited]  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, forthcoming  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Miguel Lebre de Freitas](https://mlebredefreitas.wordpress.com/) 
+
 ## Working Papers
-5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), January 2020 (submitted)<br/>
+6. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), January 2020 (submitted)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-6. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
+7. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
 
-7. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), June 2019, Reject & Resubmit at the Review of Economic Studies <br/>
+8. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), June 2019, Reject & Resubmit at the Review of Economic Studies <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
-8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
+9. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-9. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
+10. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
 
 
 ## Work in Progress
-10. Quantitative Tightening <br/>
+11. Quantitative Tightening <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Vadim Elenev](https://sites.google.com/site/vadimelenevfinance/) and [Dan Greenwald](http://www.dlgreenwald.com/)
 
-11. A Macroeconomic Model of Zombies <br/> 
+12. A Macroeconomic Model of Zombies <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Juan Sanchez](https://sites.google.com/view/juanmsanchezweb/home)
 
-12. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States <br/> 
+13. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rong Li](http://rongli.weebly.com/) and [Nuno Paixao](https://sites.google.com/view/nunopaixao/)
