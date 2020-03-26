@@ -35,6 +35,7 @@ layout: splash
 
 ## Working Papers
 6. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_March2020.pdf), March 2020 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/)*  
 
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-008.pdf), January 2020 (submitted)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
