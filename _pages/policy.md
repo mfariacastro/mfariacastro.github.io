@@ -18,6 +18,8 @@ layout: splash
 3. [Can Countercyclical Capital Buffers Help Prevent a Financial Crisis?](https://research.stlouisfed.org/publications/economic-synopses/2019/06/21/can-countercyclical-capital-buffers-help-prevent-a-financial-crisis), Economic Synopsis, 2019, No. 15  
 
    Less technical summaries [here](https://www.stlouisfed.org/on-the-economy/2019/august/countercyclical-capital-buffers-financial-crises) and [here](https://www.stlouisfed.org/open-vault/2020/february/what-is-countercyclical-capital-buffer-ccyb)
+   
+4. [Fiscal Policy and COVID-19: Insights from a Quantitative Model](https://research.stlouisfed.org/publications/economic-synopses/2020/03/27/fiscal-policy-and-covid-19-insights-from-a-quantitative-model), Economic Synopsis, 2020, No. 8  
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018
