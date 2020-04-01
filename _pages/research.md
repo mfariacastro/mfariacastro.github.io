@@ -63,7 +63,6 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rong Li](http://rongli.weebly.com/) and [Nuno Paixao](https://sites.google.com/view/nunopaixao/)
 
 ## Other
-15. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)
-<br/>
+15. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics and Control**, forthcoming <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
