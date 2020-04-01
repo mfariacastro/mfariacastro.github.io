@@ -37,7 +37,6 @@ layout: splash
 8. [Corporate Debt Since the Great Recession](https://www.stlouisfed.org/on-the-economy/2019/august/corporate-debt-great-recession), On the Economy Blog, August 2019
 9. [Gauging returns and risk in the bond market](https://fredblog.stlouisfed.org/2019/09/gauging-returns-and-risk-in-the-bond-market/), FRED Blog, September 2019
 10. [Back-of-the-Envelope Estimates of Next Quarter's Unemployment Rate](https://www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate), On the Economy Blog, March 2020 </br>
-[//]: # (*Mentions: [NBC News](https://www.nbcnews.com/business/economy/coronavirus-job-losses-could-total-47-million-unemployment-rate-may-n1172111), [Financial Times](https://www.ft.com/content/cafa94bb-1638-4414-b780-0b29719433a2), [National Review](https://www.nationalreview.com/2020/03/coronavirus-unemployment-shutdown-debate-false-choice/), [New York Times Opinion](https://www.nytimes.com/2020/04/01/opinion/notes-on-the-coronacoma-wonkish.html), [Washington Post Opinion](https://www.washingtonpost.com/opinions/covid-19-is-going-to-do-to-businesses-what-it-has-done-to-people/2020/03/31/8d09abe0-7391-11ea-87da-77a8136c1a6d_story.html)*)
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
