@@ -16,6 +16,8 @@ layout: splash
 6. [Quantitative easing e os desafios da normalização, Publico](https://www.publico.pt/2018/12/24/economia/opiniao/quantitative-easing-desafios-normalizacao-1855621), December 2018 (PT)
 7. [SimCity: Há 30 anos a brincar aos presidentes da câmara, Publico](https://www.publico.pt/2019/01/27/tecnologia/noticia/simcity-ha-30-anos-brincar-presidentes-camara-1859269), January 2019 (PT)
 8. [Como um prémio de Economia abre portas no mercado de trabalho, até as das Fed, ECO](https://eco.sapo.pt/especiais/como-um-premio-de-economia-abre-portas-no-mercado-de-trabalho-ate-as-das-fed/), November 2019 (PT)
-9. [Interview with Radio Observador](https://observador.pt/especiais/entrevista-a-miguel-faria-e-castro-esperemos-conseguir-evitar-que-isto-se-torne-numa-crise-financeira/), March 2020 (PT)
+9. Interview with SIC Noticias, March 2020 (PT)
+10. [Interview with Radio Observador](https://observador.pt/especiais/entrevista-a-miguel-faria-e-castro-esperemos-conseguir-evitar-que-isto-se-torne-numa-crise-financeira/), March 2020 (PT)
+11. [Desemprego e Covid-19: alguns cálculos simples para Portugal, ECO](https://eco.sapo.pt/especiais/desemprego-e-covid-19-alguns-calculos-simples-para-portugal/), April 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
