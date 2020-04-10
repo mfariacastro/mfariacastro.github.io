@@ -62,6 +62,9 @@ layout: splash
 14. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rong Li](http://rongli.weebly.com/) and [Nuno Paixao](https://sites.google.com/view/nunopaixao/)
 
+15. Bank Market Power, Customer Capital, and the Speed of Recapitalizations <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/home)
+
 ## Other
 15. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics and Control**, forthcoming <br/>
