@@ -20,6 +20,6 @@ layout: splash
 10. [Interview with Radio Observador, "Direto ao Assunto" podcast](https://observador.pt/especiais/entrevista-a-miguel-faria-e-castro-esperemos-conseguir-evitar-que-isto-se-torne-numa-crise-financeira/), March 2020 (PT)
 11. [Desemprego e Covid-19: alguns cálculos simples para Portugal, ECO](https://eco.sapo.pt/especiais/desemprego-e-covid-19-alguns-calculos-simples-para-portugal/), April 2020 (PT)
 12. [Interview with Radio Observador, "Resposta Pronta" podcast](https://observador.pt/programas/resposta-pronta/governo-nao-pode-reabrir-a-economia-por-decreto/), April 2020 (PT)
-13. [O regresso do desemprego de massas será invisível?, Visao](https://visao.sapo.pt/exame/inconsistenciaproblematica/2020-04-17-o-regresso-do-desemprego-de-massas-sera-invisivel/)
+13. [O regresso do desemprego de massas será invisível?, Visao](https://visao.sapo.pt/exame/inconsistenciaproblematica/2020-04-17-o-regresso-do-desemprego-de-massas-sera-invisivel/), April 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
