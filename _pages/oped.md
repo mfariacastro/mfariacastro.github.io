@@ -6,7 +6,7 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
-# Opinion & other media mentions
+# Public interventions & other media mentions
 
 1. [Panel at Economia Viva Forum "10 Years after Lehman"](https://youtu.be/1dsO99cAgC8), hosted by Nova SBE, February 2018 (EN)
 2. [Interview with Expresso](https://expresso.sapo.pt/economia/2018-03-24-O-momento-para-fazer-mais-reformas-em-Portugal-perdeu-se), March 2018 (PT)
@@ -20,5 +20,6 @@ layout: splash
 10. [Interview with Radio Observador, "Direto ao Assunto" podcast](https://observador.pt/especiais/entrevista-a-miguel-faria-e-castro-esperemos-conseguir-evitar-que-isto-se-torne-numa-crise-financeira/), March 2020 (PT)
 11. [Desemprego e Covid-19: alguns cálculos simples para Portugal, ECO](https://eco.sapo.pt/especiais/desemprego-e-covid-19-alguns-calculos-simples-para-portugal/), April 2020 (PT)
 12. [Interview with Radio Observador, "Resposta Pronta" podcast](https://observador.pt/programas/resposta-pronta/governo-nao-pode-reabrir-a-economia-por-decreto/), April 2020 (PT)
+13. [O regresso do desemprego de massas será invisível?, Visao](https://visao.sapo.pt/exame/inconsistenciaproblematica/2020-04-17-o-regresso-do-desemprego-de-massas-sera-invisivel/)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
