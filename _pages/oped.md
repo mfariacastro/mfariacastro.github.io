@@ -19,7 +19,9 @@ layout: splash
 9. Interview with SIC Noticias, March 2020 (PT)
 10. [Interview with Radio Observador, "Direto ao Assunto" podcast](https://observador.pt/especiais/entrevista-a-miguel-faria-e-castro-esperemos-conseguir-evitar-que-isto-se-torne-numa-crise-financeira/), March 2020 (PT)
 11. [Desemprego e Covid-19: alguns cálculos simples para Portugal, ECO](https://eco.sapo.pt/especiais/desemprego-e-covid-19-alguns-calculos-simples-para-portugal/), April 2020 (PT)
-12. [Interview with Radio Observador, "Resposta Pronta" podcast](https://observador.pt/programas/resposta-pronta/governo-nao-pode-reabrir-a-economia-por-decreto/), April 2020 (PT)
-13. [O regresso do desemprego de massas será invisível?, Visao](https://visao.sapo.pt/exame/inconsistenciaproblematica/2020-04-17-o-regresso-do-desemprego-de-massas-sera-invisivel/), April 2020 (PT)
+12. [Member of a panel of 25 economists to advise the Prime Minister of Portugal on reopening the economy](https://www.portugal.gov.pt/pt/gc22/comunicacao/comunicado?i=primeiro-ministro-reune-se-com-academicos-e-economistas-sobre-as-medidas-de-relancamento-economico), April 2020 (PT)
+13. [Interview with Radio Observador, "Resposta Pronta" podcast](https://observador.pt/programas/resposta-pronta/governo-nao-pode-reabrir-a-economia-por-decreto/), April 2020 (PT)
+14. [O regresso do desemprego de massas será invisível?, Visao](https://visao.sapo.pt/exame/inconsistenciaproblematica/2020-04-17-o-regresso-do-desemprego-de-massas-sera-invisivel/), April 2020 (PT)
+15. [Interview with Visao](https://visao.sapo.pt/exame/2020-04-19-covid19-nos-eua-praticamente-nenhum-estado-tinha-os-sistemas-preparados-para-tantos-desempregados/), April 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
