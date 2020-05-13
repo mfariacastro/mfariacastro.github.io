@@ -39,7 +39,7 @@ layout: splash
 
 ## Working Papers
 7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v2.pdf), May 2020 <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the shock series [here](http://jbduarte.com/files/Shocks.zip)
 
 8. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_March2020.pdf), March 2020 <br/>
