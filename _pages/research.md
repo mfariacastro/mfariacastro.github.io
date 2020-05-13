@@ -38,7 +38,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](http://jbduarte.com/files/BDF2020_v1.pdf), May 2020 <br/> 
+7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v2.pdf), May 2020 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)
 
 8. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_March2020.pdf), March 2020 <br/>
