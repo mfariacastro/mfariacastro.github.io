@@ -38,14 +38,14 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v2.pdf), May 2020 <br/> 
+7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v2.pdf), May 2020, submitted<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the shock series [here](http://jbduarte.com/files/Shocks.zip)
 
-8. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_March2020.pdf), March 2020 <br/>
+8. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_March2020.pdf), March 2020, submitted<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
 
-9. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 (submitted)<br/>
+9. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, submitted<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
 10. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
