@@ -51,7 +51,7 @@ layout: splash
 10. [The Nonlinear Effects of Fiscal Policy](https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-015.pdf), May 2019<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
 
-11. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf), June 2019, Reject & Resubmit at the Review of Economic Studies <br/>
+11. [Fiscal Multipliers and Financial Crises](https://mfariacastro.github.io/files/FiscalMult2020.pdf), May 2020, submitted <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
 12. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
