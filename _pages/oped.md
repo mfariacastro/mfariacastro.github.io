@@ -25,5 +25,6 @@ layout: splash
 15. [Interview with Visao](https://visao.sapo.pt/exame/2020-04-19-covid19-nos-eua-praticamente-nenhum-estado-tinha-os-sistemas-preparados-para-tantos-desempregados/), April 2020 (PT)
 16. [UpHill Webinar on Exit Strategies for the Pandemic](https://uphillhealth.com/resources/5ea1653f52faff0001f7c7f3), April 2020 (PT)
 17. [Vírus faz mutações nas projeções económicas, Jornal Economico](https://leitor.jornaleconomico.pt/noticia/virus-faz-mutacoes-nas-projecoes-economicas), May 2020 (PT)
+18. [Escolher entre política A ou B? Projeções macroeconómicas ajudam, Jornal Economico](https://jornaleconomico.sapo.pt/noticias/escolher-entre-politica-a-ou-b-projecoes-macroeconomicas-ajudam-590478), May 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
