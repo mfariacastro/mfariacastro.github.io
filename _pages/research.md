@@ -38,7 +38,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-7. [Measuring Sectoral Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v4.pdf), May 2020 <br/> 
+7. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v6.pdf), July 2020 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the shock series [here](https://mfariacastro.github.io/files/Shocks.zip)
 
