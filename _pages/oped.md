@@ -26,6 +26,7 @@ layout: splash
 16. [UpHill Webinar on Exit Strategies for the Pandemic](https://uphillhealth.com/resources/5ea1653f52faff0001f7c7f3), April 2020 (PT)
 17. [Vírus faz mutações nas projeções económicas, Jornal Economico](https://leitor.jornaleconomico.pt/noticia/virus-faz-mutacoes-nas-projecoes-economicas), May 2020 (PT)
 18. [Escolher entre política A ou B? Projeções macroeconómicas ajudam, Jornal Economico](https://jornaleconomico.sapo.pt/noticias/escolher-entre-politica-a-ou-b-projecoes-macroeconomicas-ajudam-590478), May 2020 (PT)
-19. [Desemprego. Porque é que os EUA recuperam rapidamente e Portugal não?](https://observador.pt/especiais/desemprego-porque-e-que-os-eua-recuperam-rapidamente-e-portugal-nao/), July 2020 (PT)
+19. [Desemprego. Porque é que os EUA recuperam rapidamente e Portugal não?, Observador](https://observador.pt/especiais/desemprego-porque-e-que-os-eua-recuperam-rapidamente-e-portugal-nao/), July 2020 (PT)
+20. [Com layoff, e principalmente sem, mais desemprego parece “inevitável”, Publico](https://www.publico.pt/2020/07/24/economia/noticia/layoff-principalmente-desemprego-parece-inevitavel-1925666), July 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
