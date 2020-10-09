@@ -38,7 +38,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-7. [Anatomy of Corporate Credit Spreads: The Great Recession vs. COVID-19](https://mfariacastro.github.io/files/BDF2020_v6.pdf), October 2020 <br/> 
+7. [Anatomy of Corporate Credit Spreads: The Great Recession vs. COVID-19](https://mfariacastro.github.io/files/CreditSpreadsCovid_Revised.pdf), October 2020 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
 8. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v6.pdf), July 2020 <br/> 
