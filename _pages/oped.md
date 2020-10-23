@@ -29,5 +29,6 @@ layout: splash
 19. [Desemprego. Porque é que os EUA recuperam rapidamente e Portugal não?, Observador](https://observador.pt/especiais/desemprego-porque-e-que-os-eua-recuperam-rapidamente-e-portugal-nao/), July 2020 (PT)
 20. [Com layoff, e principalmente sem, mais desemprego parece “inevitável”, Publico](https://www.publico.pt/2020/07/24/economia/noticia/layoff-principalmente-desemprego-parece-inevitavel-1925666), July 2020 (PT)
 21. [A pandemia está a forçar a Economia a mudar?, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2020-09-23-a-pandemia-esta-a-forcar-a-economia-a-mudar/), September 2020 (PT)
+22. [Webinar sobre o OE2021, organizado pelo Conselho Estrategico Nacional do PSD](http://fariaecastro.net/assets/Slides_PSD.pdf), October 2020 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
