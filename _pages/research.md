@@ -45,7 +45,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the shock series [here](https://mfariacastro.github.io/files/Shocks.zip)
 
-9. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_May2020.pdf), May 2020, *R&R at the Journal of Economic Dynamics and Control* <br/>
+9. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_December2020.pdf), December 2020, *R&R at the Journal of Economic Dynamics and Control* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
 
 10. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
