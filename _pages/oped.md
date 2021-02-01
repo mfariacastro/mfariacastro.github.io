@@ -30,5 +30,7 @@ layout: splash
 20. [Com layoff, e principalmente sem, mais desemprego parece “inevitável”, Publico](https://www.publico.pt/2020/07/24/economia/noticia/layoff-principalmente-desemprego-parece-inevitavel-1925666), July 2020 (PT)
 21. [A pandemia está a forçar a Economia a mudar?, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2020-09-23-a-pandemia-esta-a-forcar-a-economia-a-mudar/), September 2020 (PT)
 22. [Webinar sobre o OE2021, organizado pelo Conselho Estrategico Nacional do PSD](http://fariaecastro.net/assets/Slides_PSD.pdf), October 2020 (PT)
+23. [O que 2020 nos ensinou sobre economia, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-01-11-o-que-2020-nos-ensinou-sobre-economia/), January 2021 (PT)
+24. [A erosão do capital público em Portugal, ECO](https://eco.sapo.pt/especiais/a-erosao-do-capital-publico-em-portugal/), Febsruary 2021 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
