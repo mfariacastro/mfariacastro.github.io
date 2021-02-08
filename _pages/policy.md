@@ -51,6 +51,9 @@ layout: splash
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
+
 2. [Fiscal Policy and Inequality](https://www.stlouisfed.org/timely-topics/fiscal-policys-link-to-inequality), Timely Topics Podcast, September 2018
+
 3. [Spillovers 13 (Banco de Portugal)](https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/spillovers_jan2020.pdf), Comments on two articles published by Banco de Portugal economists, January 2020
-4. [Open Vault Blog: Debt-to-GDP Ratio](https://www.stlouisfed.org/open-vault/2020/october/debt-gdp-ratio-how-high-too-high-it-depends)
+
+4. [Open Vault Blog: Debt-to-GDP Ratio](https://www.stlouisfed.org/open-vault/2020/october/debt-gdp-ratio-how-high-too-high-it-depends), October 2020
