@@ -13,7 +13,6 @@ layout: splash
 1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, *Accepted s.t. minor revisions* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATLAB code [here](https://github.com/mfariacastro/fiscal_policy_pandemic)  
 
 2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Monetary Economics**, 2020 <br/>
