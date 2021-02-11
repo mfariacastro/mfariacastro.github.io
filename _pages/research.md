@@ -38,7 +38,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf)<br/>
+1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf), February 2021<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, *Accepted s.t. minor revisions* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
 
