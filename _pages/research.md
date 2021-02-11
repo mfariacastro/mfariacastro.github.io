@@ -10,21 +10,25 @@ layout: splash
 # Research
 
 ## Published & Accepted Articles
-1. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
+1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf), February 2021<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, Forthcoming <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
+
+2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Monetary Economics**, 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)* 
 
-2. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
+3. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economic Studies**, 2017  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) 
 
-3. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
+4. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Banco de Portugal Economic Studies**, 2015  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
 
-4. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
+5. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Studies in Economics and Finance**, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
@@ -38,10 +42,6 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf), February 2021<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, *Accepted s.t. minor revisions* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
-
 8. [Corporate Borrowing, Investment, and Credit Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2021 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
