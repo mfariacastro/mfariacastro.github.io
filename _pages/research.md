@@ -45,7 +45,7 @@ layout: splash
 8. [Corporate Borrowing, Investment, and Credit Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2021 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
-9. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v7_1.pdf), December 2020 <br/> 
+9. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v7_1.pdf), December 2020, *R&R at the European Economic Review* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the shock series [here](https://mfariacastro.github.io/files/Shocks.zip)
 
