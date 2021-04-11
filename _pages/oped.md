@@ -35,5 +35,7 @@ layout: splash
 25. [Endividamento das famílias com o valor mais alto em cinco anos, Jornal Economico](https://jornaleconomico.sapo.pt/noticias/endividamento-das-familias-com-o-valor-mais-alto-em-cinco-anos-715680), March 2021 (PT)
 26. [A crise renovou o desejo de mudar os impostos (e talvez de aumentá-los), Publico](https://www.publico.pt/2021/03/29/economia/noticia/crise-renovou-desejo-mudar-impostos-aumentalos-1956232), March 2021 (PT)
 27. [Resolvemos a equação da inflação?, Visao/Exame](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-04-09-resolvemos-a-equacao-da-inflacao/), April 2021 (PT)
+28. [Panel at Economia Viva Forum "The European Recovery Plan"](https://www.youtube.com/watch?v=WaOKNl1MyXY), hosted by Nova SBE, April 2021 (EN)
+29. [Interview with O Jornal Economico](https://jornaleconomico.sapo.pt/noticias/resposta-orcamental-europeia-foi-demasiado-modesta-durante-a-pandemia-e-agora-724418), April 2021 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
