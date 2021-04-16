@@ -62,17 +62,3 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
 14. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
-
-
-## Work in Progress
-15. Quantitative Tightening <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Vadim Elenev](https://sites.google.com/site/vadimelenevfinance/) and [Dan Greenwald](http://www.dlgreenwald.com/)
-
-16. A Macroeconomic Model of Zombies <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Juan Sanchez](https://sites.google.com/view/juanmsanchezweb/home)
-
-17. The Fiscal Multiplier of Financial Sector Interventions: Evidence from U.S. States <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rong Li](http://rongli.weebly.com/) and [Nuno Paixao](https://sites.google.com/view/nunopaixao/)
-
-18. Bank Market Power, Customer Capital, and the Speed of Recapitalizations <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/home)
