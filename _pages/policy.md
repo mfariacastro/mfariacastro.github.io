@@ -57,3 +57,5 @@ layout: splash
 3. [Spillovers 13 (Banco de Portugal)](https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/spillovers_jan2020.pdf), Comments on two articles published by Banco de Portugal economists, January 2020
 
 4. [Open Vault Blog: Debt-to-GDP Ratio](https://www.stlouisfed.org/open-vault/2020/october/debt-gdp-ratio-how-high-too-high-it-depends), October 2020
+
+5. [St. Louis Fed Annual Report 2020: Crises in Corporate Debt Markets](https://www.stlouisfed.org/annual-report/2020/crisis-in-corporate-debt-markets), March 2021 (w./ J. Kozlowski)
