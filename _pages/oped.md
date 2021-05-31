@@ -38,6 +38,6 @@ layout: splash
 28. [Panel at Economia Viva Forum "The European Recovery Plan"](https://www.youtube.com/watch?v=WaOKNl1MyXY), hosted by Nova SBE, April 2021 (EN)
 29. [Interview with O Jornal Economico](https://jornaleconomico.sapo.pt/noticias/resposta-orcamental-europeia-foi-demasiado-modesta-durante-a-pandemia-e-agora-724418), April 2021 (PT)
 30. [Revolução das moedas digitais põe bancos centrais no “olho do furacão”, Jornal de Negocios](https://www.jornaldenegocios.pt/mercados/detalhe/revolucao-das-moedas-digitais-poe-bancos-no-olho-do-furacao), May 2021 (PT)
-31. [Interview with Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/miguel-faria-e-castro-os-nomadas-digitais-sao-uma-grande-oportunidade-para-portugal), May 2021 (PT)
+31. [Interview with Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/miguel-faria-e-castro-os-nomadas-digitais-sao-uma-grande-oportunidade-para-portugal), May 2021 (PT). [Part II](https://www.jornaldenegocios.pt/economia/detalhe/miguel-faria-e-castro-a-uniao-europeia-e-a-comissao-sao-muito-mas-a-responder-a-este-tipo-de-crises), [Part III](https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/miguel-faria-e-castro-nao-e-claro-como-vamos-sair-das-moratorias)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
