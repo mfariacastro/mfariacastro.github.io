@@ -21,7 +21,9 @@ layout: splash
    
 4. [Fiscal Policy and COVID-19: Insights from a Quantitative Model](https://research.stlouisfed.org/publications/economic-synopses/2020/03/27/fiscal-policy-and-covid-19-insights-from-a-quantitative-model), Economic Synopsis, 2020, No. 8  
    
-5. [Is the COVID-19 Pandemic a Supply or a Demand Shock?](https://research.stlouisfed.org/publications/economic-synopses/2020/05/20/is-the-covid-19-pandemic-a-supply-or-a-demand-shock), Economic Synopsis, 2020, No. 31 (w./ P. Brinca and J. B. Duarte)  
+5. [Is the COVID-19 Pandemic a Supply or a Demand Shock?](https://research.stlouisfed.org/publications/economic-synopses/2020/05/20/is-the-covid-19-pandemic-a-supply-or-a-demand-shock), Economic Synopsis, 2020, No. 31 (w./ P. Brinca and J. B. Duarte) 
+
+6. [Mortgage Forbearance and Economic Recovery from the Pandemic](https://research.stlouisfed.org/publications/economic-synopses/2021/07/16/mortgage-forbearance-and-economic-recovery-from-the-pandemic), Economic Synopsis, 2021, No. 19 (w/ O. Wilkinson)
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018 (w./ A. Bharadwaj)
@@ -59,3 +61,5 @@ layout: splash
 4. [Open Vault Blog: Debt-to-GDP Ratio](https://www.stlouisfed.org/open-vault/2020/october/debt-gdp-ratio-how-high-too-high-it-depends), October 2020
 
 5. [St. Louis Fed Annual Report 2020: Crises in Corporate Debt Markets](https://www.stlouisfed.org/annual-report/2020/crisis-in-corporate-debt-markets), March 2021 (w./ J. Kozlowski)
+
+6. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://www.suerf.org/suer-policy-brief/29521/a-quantitative-analysis-of-the-countercyclical-capital-buffer), SUERF Policy Brief, August 2021
