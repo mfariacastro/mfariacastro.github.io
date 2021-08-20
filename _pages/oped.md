@@ -42,5 +42,6 @@ layout: splash
 32. [How the virus disrupted inflation statistics, Financial Times](https://www.ft.com/content/abad2b97-b40a-4e68-8834-6d7c17dcd404), June 2021 (EN)
 33. [Apesar do desemprego, três em cada cinco empresas têm dificuldade em encontrar trabalhadores. Porquê?, Observador](https://observador.pt/especiais/apesar-do-desemprego-tres-em-cada-cinco-empresas-tem-dificuldade-em-encontrar-trabalhadores-porque/), July 2021 (PT)
 34. [Atlantic Talks Podcast, FLAD](https://www.flad.pt/en/miguel-faria-e-castro-at-the-atlantic-talks/), July 2021 (PT)
+35. [Mercado de trabalho português é “muito disfuncional” e “prejudica os jovens”, ECO](https://eco.sapo.pt/2021/08/15/economista-da-reserva-federal-mercado-de-trabalho-portugues-e-muito-disfuncional-e-prejudica-os-jovens/), August 2021 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
