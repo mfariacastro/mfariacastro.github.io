@@ -10,44 +10,45 @@ layout: splash
 # Research
 
 ## Published & Accepted Articles
-1. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf) <br/>
+1. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **European Economic Review**, Accepted <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
+
+2. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, 2021 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
 
-2. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
+3. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Monetary Economics**, 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)* 
 
-3. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
+4. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economic Studies**, 2017  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) 
 
-4. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
+5. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Banco de Portugal Economic Studies**, 2015  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
 
-5. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
+6. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Studies in Economics and Finance**, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Book Chapters and Other Publications
-6. The Krugman-Macedo Diagram Revisited <br/>
+7. The Krugman-Macedo Diagram Revisited <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, 2021 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Miguel Lebre de Freitas](https://mlebredefreitas.wordpress.com/) 
 
-7. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
+8. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-8. [Corporate Borrowing, Investment, and Credit Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2021 <br/> 
+9. [Corporate Borrowing, Investment, and Credit Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2021 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
-
-9. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf), July 2021, *R&R at the European Economic Review* <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
 
 10. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
