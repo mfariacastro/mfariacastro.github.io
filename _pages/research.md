@@ -47,7 +47,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-9. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/CreditSpreadsCovidGFC.pdf), September 2021 <br/> 
+9. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_September2021.pdf), September 2021 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
 10. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
