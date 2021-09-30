@@ -47,9 +47,6 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
- <! ---  9. [Evergreening](https://mfariacastro.github.io/files/FPS_September2021.pdf), September 2021 <br/> 
- <! --- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
-
 10. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_September2021.pdf), September 2021 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
