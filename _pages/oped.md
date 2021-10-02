@@ -45,5 +45,5 @@ layout: splash
 35. [Mercado de trabalho português é “muito disfuncional” e “prejudica os jovens”, ECO](https://eco.sapo.pt/2021/08/15/economista-da-reserva-federal-mercado-de-trabalho-portugues-e-muito-disfuncional-e-prejudica-os-jovens/), August 2021 (PT)
 36. [Pico de depósitos nos EUA é aliado a investimento, ao contrário de Portugal, O Jornal Economico](https://jornaleconomico.sapo.pt/noticias/pico-de-depositos-nos-eua-e-aliado-a-investimento-ao-contrario-de-portugal-775936), August 2021 (PT)
 37. [O 11 de Setembro pela lupa da economia, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/o-11-de-setembro-pela-lupa-da-economia), September 2021 (PT)
-
+38. [Evergrande. Pode não ser o Lehman, mas impacto faz jus ao nome, Expresso](https://expresso.pt/economia/2021-10-01-Evergrande.-Pode-nao-ser-o-Lehman-mas-impacto-faz-jus-ao-nome-b580221f), October 2021 (PT)
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
