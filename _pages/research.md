@@ -12,7 +12,7 @@ layout: splash
 ## Published & Accepted Articles
 1. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **European Economic Review**, 2021 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/), Code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/), code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
 
 2. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, 2021 <br/>
