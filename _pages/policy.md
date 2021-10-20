@@ -10,14 +10,12 @@ layout: splash
 
 ## Economic Synopses
 1. [What are the Fiscal Costs of a (Great) Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/08/24/what-are-the-fiscal-costs-of-a-great-recession), Economic Synopsis, 2018, No. 22  
-
-   Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2018/october/fiscal-costs-great-recession)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Less technical summary [here](https://www.stlouisfed.org/on-the-economy/2018/october/fiscal-costs-great-recession)
  
 2. [Rising Interest Rates, the Deficit, and Public Debt](https://research.stlouisfed.org/publications/economic-synopses/2018/11/16/rising-interest-rates-the-deficit-and-public-debt/), Economic Synopsis, 2018, No. 28 
 
 3. [Can Countercyclical Capital Buffers Help Prevent a Financial Crisis?](https://research.stlouisfed.org/publications/economic-synopses/2019/06/21/can-countercyclical-capital-buffers-help-prevent-a-financial-crisis), Economic Synopsis, 2019, No. 15  
-
-   Less technical summaries [here](https://www.stlouisfed.org/on-the-economy/2019/august/countercyclical-capital-buffers-financial-crises) and [here](https://www.stlouisfed.org/open-vault/2020/february/what-is-countercyclical-capital-buffer-ccyb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Less technical summaries [here](https://www.stlouisfed.org/on-the-economy/2019/august/countercyclical-capital-buffers-financial-crises) and [here](https://www.stlouisfed.org/open-vault/2020/february/what-is-countercyclical-capital-buffer-ccyb)
    
 4. [Fiscal Policy and COVID-19: Insights from a Quantitative Model](https://research.stlouisfed.org/publications/economic-synopses/2020/03/27/fiscal-policy-and-covid-19-insights-from-a-quantitative-model), Economic Synopsis, 2020, No. 8  
    
@@ -26,6 +24,7 @@ layout: splash
 6. [Mortgage Forbearance and Economic Recovery from the Pandemic](https://research.stlouisfed.org/publications/economic-synopses/2021/07/16/mortgage-forbearance-and-economic-recovery-from-the-pandemic), Economic Synopsis, 2021, No. 19 (w/ O. Wilkinson)
 
 7. [The COVID Retirement Boom](https://files.stlouisfed.org/files/htdocs/publications/economic-synopses/2021/10/15/the-covid-retirement-boom.pdf), Economic Synopsis, 2021, No. 25
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Markets & Mortgages](https://marketsandmortgages.com/2021/10/17/excess-retirements-could-explain-missing-workers/)
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018 (w./ A. Bharadwaj)
