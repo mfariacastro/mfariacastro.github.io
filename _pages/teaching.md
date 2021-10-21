@@ -6,8 +6,11 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
+# Current Teaching
 
-# Teaching
+I will be teaching Intermediate Macroeconomic Theory (Economics 4021) at Washington University in St. Louis in the Spring of 2022. 
+
+# Past Teaching
 
 I have mostly taught courses related to macroeconomics and banking, both at the graduate (Ph.D. and MBA) and undergraduate levels.
 
