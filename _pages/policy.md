@@ -24,7 +24,7 @@ layout: splash
 6. [Mortgage Forbearance and Economic Recovery from the Pandemic](https://research.stlouisfed.org/publications/economic-synopses/2021/07/16/mortgage-forbearance-and-economic-recovery-from-the-pandemic), Economic Synopsis, 2021, No. 19 (w/ O. Wilkinson)
 
 7. [The COVID Retirement Boom](https://files.stlouisfed.org/files/htdocs/publications/economic-synopses/2021/10/15/the-covid-retirement-boom.pdf), Economic Synopsis, 2021, No. 25 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Markets & Mortgages](https://marketsandmortgages.com/2021/10/17/excess-retirements-could-explain-missing-workers/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Press: [Markets & Mortgages](https://marketsandmortgages.com/2021/10/17/excess-retirements-could-explain-missing-workers/), [Barron's](https://www.barrons.com/articles/retiring-early-is-looking-easier-heres-how-to-do-it-with-no-regrets-51634892301)
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018 (w./ A. Bharadwaj)
