@@ -53,6 +53,7 @@ layout: splash
 17. [Credit Spreads during the Financial Crisis and COVID-19](https://www.stlouisfed.org/on-the-economy/2021/february/credit-spreads-financial-crisis-covid19), On the Economy Blog, February 2021 (w./ M. Ebsim and J. Kozlowski)
 18. [Domestic Debt Before and After the Pandemic Recession](https://www.stlouisfed.org/on-the-economy/2021/september/domestic-debt-pandemic-recession), On the Economy Blog, September 2021
 19. [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises), On the Economy Blog, November 2021 (w./ J. Kozlowski and S. Jordan-Wood)
+20. [The Evolution of Household Net Worth during COVID-19](https://www.stlouisfed.org/on-the-economy/2021/november/evolution-household-net-worth-during-covid19), On the Economy Blog, November 2021 (w./ R. Silvera Zumaran)
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
