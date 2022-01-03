@@ -47,5 +47,7 @@ layout: splash
 37. [O 11 de Setembro pela lupa da economia, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/o-11-de-setembro-pela-lupa-da-economia), September 2021 (PT)
 38. [Evergrande. Pode não ser o Lehman, mas impacto faz jus ao nome, Expresso](https://expresso.pt/economia/2021-10-01-Evergrande.-Pode-nao-ser-o-Lehman-mas-impacto-faz-jus-ao-nome-b580221f), October 2021 (PT)
 39. [Senso comum vs. revolução de credibilidade na economia, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-10-26-senso-comum-vs-revolucao-de-credibilidade-na-economia/), October 2021 (PT)
+40. [O que 2021 nos ensinou sobre economia, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-12-23-o-que-2021-nos-ensinou-sobre-economia/), December 2021 (PT)
+41. [Inflação, finanças públicas, e custos de oportunidade, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/miguel-de-faria-e-castro-inflacao-financas-publicas-e-custos-de-oportunidade), December 2021 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
