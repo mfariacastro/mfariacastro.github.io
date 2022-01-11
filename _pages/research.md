@@ -11,7 +11,7 @@ layout: splash
 
 ## Published & Accepted Articles
 1. [Fiscal Multipliers and Financial Crises](https://mfariacastro.github.io/files/Fiscal_Multipliers_R1.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Conditionally Accepted at the Review of Economics and Statistics*, December 2021 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Accepted at the Review of Economics and Statistics*, January 2022 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
 2. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
