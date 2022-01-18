@@ -10,7 +10,7 @@ layout: splash
 # Research
 
 ## Published & Accepted Articles
-1. [Fiscal Multipliers and Financial Crises](https://mfariacastro.github.io/files/Fiscal_Multipliers_R1.pdf)<br/>
+1. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, forthcoming <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
 
