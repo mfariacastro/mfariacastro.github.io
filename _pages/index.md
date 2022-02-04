@@ -10,7 +10,7 @@ layout: splash
 
 **Welcome!**
 
-I am a Senior Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/).
+I am a Senior Economist in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/) and a Lecturer at the Economics Department of [Washington University in St. Louis](https://economics.wustl.edu/).
 
 My research focuses on macroeconomics and financial institutions.
 
