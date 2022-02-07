@@ -11,8 +11,8 @@ layout: splash
 
 ## Published & Accepted Articles
 1. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, forthcoming <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/11/kind-countercyclical-fiscal-policy-best.html)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, 2022 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 2. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **European Economic Review**, 2021 <br/>
