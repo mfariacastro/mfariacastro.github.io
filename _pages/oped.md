@@ -49,5 +49,10 @@ layout: splash
 39. [Senso comum vs. revolução de credibilidade na economia, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-10-26-senso-comum-vs-revolucao-de-credibilidade-na-economia/), October 2021 (PT)
 40. [O que 2021 nos ensinou sobre economia, Visao](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2021-12-23-o-que-2021-nos-ensinou-sobre-economia/), December 2021 (PT)
 41. [Inflação, finanças públicas, e custos de oportunidade, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/detalhe/miguel-de-faria-e-castro-inflacao-financas-publicas-e-custos-de-oportunidade), December 2021 (PT)
+42. Interview with CNN Portugal, February 2022 (PT)
+43. Interview with SIC Noticias, February 2022 (PT)
+44. [Economia russa já vacila perante pressão das sanções, Publico](https://www.publico.pt/2022/03/01/economia/noticia/economia-russa-ja-vacila-pressao-sancoes-1997169/amp), February 2022 (PT)
+45. [O primeiro dia da outra guerra: asfixiar a economia russa, Exame/Visao](https://visao.sapo.pt/exame/2022-03-01-o-primeiro-dia-da-outra-guerra-asfixiar-a-economia-russa/), February 2022 (PT)
+46. [Rússia está isolada financeiramente. A economia é uma arma?, Observador](https://observador.pt/especiais/russia-esta-isolada-financeiramente-a-economia-e-uma-arma/), March 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
