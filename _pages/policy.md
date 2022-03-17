@@ -59,6 +59,7 @@ layout: splash
 18. [Domestic Debt Before and After the Pandemic Recession](https://www.stlouisfed.org/on-the-economy/2021/september/domestic-debt-pandemic-recession), On the Economy Blog, September 2021
 19. [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises), On the Economy Blog, November 2021 (w./ J. Kozlowski and S. Jordan-Wood)
 20. [The Evolution of Household Net Worth during COVID-19](https://www.stlouisfed.org/on-the-economy/2021/november/evolution-household-net-worth-during-covid19), On the Economy Blog, November 2021 (w./ R. Silvera Zumaran)
+21. [The declining labor force](https://fredblog.stlouisfed.org/2022/03/the-declining-labor-force/), FRED blog, March 2022 (w./ Devin Werner)
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
