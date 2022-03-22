@@ -54,5 +54,7 @@ layout: splash
 44. [Economia russa já vacila perante pressão das sanções, Publico](https://www.publico.pt/2022/03/01/economia/noticia/economia-russa-ja-vacila-pressao-sancoes-1997169/amp), February 2022 (PT)
 45. [O primeiro dia da outra guerra: asfixiar a economia russa, Exame/Visao](https://visao.sapo.pt/exame/2022-03-01-o-primeiro-dia-da-outra-guerra-asfixiar-a-economia-russa/), February 2022 (PT)
 46. [Rússia está isolada financeiramente. A economia é uma arma?, Observador](https://observador.pt/especiais/russia-esta-isolada-financeiramente-a-economia-e-uma-arma/), March 2022 (PT)
+47. [Putin arrisca default já em abril, Expresso](https://leitor.expresso.pt/semanario/semanario2577/html/economia/temas/russia.-putin-arrisca-default-ja-em-abril), March 2022 (PT)
+48. [Interview with OJE](https://jornaleconomico.pt/noticias/2a-tarde-criterios-do-pacto-de-estabilidade-e-crescimento-sao-completamente-insustentaveis-destaca-economista-da-reserva-federal-de-st-louis-864313), March 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
