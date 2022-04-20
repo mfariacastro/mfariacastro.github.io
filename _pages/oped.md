@@ -57,5 +57,6 @@ layout: splash
 47. [Putin arrisca default já em abril, Expresso](https://leitor.expresso.pt/semanario/semanario2577/html/economia/temas/russia.-putin-arrisca-default-ja-em-abril), March 2022 (PT)
 48. [Interview with OJE](https://jornaleconomico.pt/noticias/2a-tarde-criterios-do-pacto-de-estabilidade-e-crescimento-sao-completamente-insustentaveis-destaca-economista-da-reserva-federal-de-st-louis-864313), March 2022 (PT)
 49. [Podcast: Devemos ter medo da estagflação?, Expresso](https://expresso.pt/podcasts/money-money-money/2022-03-23-Devemos-ter-medo-da-estagflacao--ea35b4c0), March 2022 (PT)
+50. [Podcast O Mundo Que Se Segue: INFLAÇÃO: O que vem atrás da subida dos preços?, Fundação Francisco Manuel dos Santos](https://www.ffms.pt/podcasts/o-mundo-que-se-segue/6245/inflacao-o-que-vem-atras-da-subida-dos-precos), March 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
