@@ -73,3 +73,6 @@ layout: splash
 5. [St. Louis Fed Annual Report 2020: Crises in Corporate Debt Markets](https://www.stlouisfed.org/annual-report/2020/crisis-in-corporate-debt-markets), March 2021 (w./ J. Kozlowski)
 
 6. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://www.suerf.org/suer-policy-brief/29521/a-quantitative-analysis-of-the-countercyclical-capital-buffer), SUERF Policy Brief, August 2021
+
+7. [Retirements Increased During the COVID-19 Pandemic: Who Retired and Why?](https://www.stlouisfed.org/timely-topics/retirements-increased-during-pandemic), Timely Topics Podcast, March 2022
+8. 
