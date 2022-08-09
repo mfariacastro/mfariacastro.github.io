@@ -60,5 +60,6 @@ layout: splash
 50. [Podcast: Devemos ter medo da estagflação?, Expresso](https://expresso.pt/podcasts/money-money-money/2022-03-23-Devemos-ter-medo-da-estagflacao--ea35b4c0), March 2022 (PT)
 51. [Podcast O Mundo Que Se Segue: INFLAÇÃO: O que vem atrás da subida dos preços?, Fundação Francisco Manuel dos Santos](https://www.ffms.pt/podcasts/o-mundo-que-se-segue/6245/inflacao-o-que-vem-atras-da-subida-dos-precos), March 2022 (PT)
 52. [Inflação ataca resistência do consumo que acelerou o PIB no arranque de 2022, Publico](https://www.publico.pt/2022/06/09/economia/noticia/inflacao-ataca-resistencia-consumo-acelerou-pib-arranque-2022-2009204), June 2022 (PT)
+53. [Se acha que esta crise é igual às outras, não está a prestar atenção, Visao/Exame](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2022-08-03-se-acha-que-esta-crise-e-igual-as-outras-nao-esta-a-prestar-atencao/), August 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
