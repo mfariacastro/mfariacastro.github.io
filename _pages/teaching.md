@@ -8,12 +8,14 @@ layout: splash
 ---
 # Current Teaching
 
-I am currently teaching Intermediate Macroeconomic Theory (Econ 4021) at Washington University in St. Louis as of the Spring of 2022. 
+I will be teaching Intermediate Macroeconomic Theory (Econ 4021) at Washington University in St. Louis as of the Spring of 2023. 
 Please refer to [WashU MyCanvas](https://mycanvas.wustl.edu/) for course information and materials.
 
 # Past Teaching
 
-I have mostly taught courses related to macroeconomics and banking, both at the graduate (Ph.D. and MBA) and undergraduate levels.
+As main instructor, I have taught Intermediate Macroeconomic Theory (Econ 4021) at Washington University in St. Louis in the Spring of 2022.
+
+I have mostly T.A.'ed courses related to macroeconomics and banking, both at the graduate (Ph.D. and MBA) and undergraduate levels.
 
 *Ph.D. Teaching*
 1. International Macroeconomics and Finance (NYU Stern, Fall 2014), Grader for Prof. T. Philippon
