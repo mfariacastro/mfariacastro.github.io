@@ -30,6 +30,8 @@ layout: splash
 8. [Asset Returns and Labor Force Participation During COVID-19](https://files.stlouisfed.org/files/htdocs/publications/economic-synopses/2022/01/06/asset-returns-and-labor-force-participation-during-covid-19.pdf), Economic Synopsis, 2022, No. 1 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Media Coverage: [Wall Street Journal](https://www.wsj.com/articles/you-got-richer-during-the-pandemic-early-retirement-is-still-risky-11644575419), [Bloomberg](https://www.bloomberg.com/news/articles/2022-03-23/the-great-retirement-disconnect-that-puzzles-u-s-economists?sref=HtZJGB9Z)* 
 
+9. [Loan Evergreening: Recent Evidence from the U.S.](https://doi.org/10.20955/es.2022.26), Economic Synopsis, 2022, No. 26 (w/ P. Paul and J. M. Sanchez)
+
 
 ## The Regional Economist
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018 (w./ A. Bharadwaj)
