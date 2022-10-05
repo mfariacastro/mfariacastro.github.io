@@ -56,6 +56,7 @@ layout: splash
 
 12. [Evergreening](https://mfariacastro.github.io/files/FPS.pdf), July 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*  
 
 13. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_September2022.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
