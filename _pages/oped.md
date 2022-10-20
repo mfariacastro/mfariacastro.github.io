@@ -62,5 +62,6 @@ layout: splash
 52. [Inflação ataca resistência do consumo que acelerou o PIB no arranque de 2022, Publico](https://www.publico.pt/2022/06/09/economia/noticia/inflacao-ataca-resistencia-consumo-acelerou-pib-arranque-2022-2009204), June 2022 (PT)
 53. [Se acha que esta crise é igual às outras, não está a prestar atenção, Visao/Exame](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2022-08-03-se-acha-que-esta-crise-e-igual-as-outras-nao-esta-a-prestar-atencao/), August 2022 (PT)
 54. [A inflação e as transferências do Banco de Portugal para o Estado, ECO](https://eco.sapo.pt/especiais/a-inflacao-e-as-transferencias-do-banco-de-portugal-para-o-estado/), October 2022 (PT)
+55. [Compreender os anos 30 para evitar uma nova Grande Depressão, Publico](https://www.publico.pt/2022/10/15/opiniao/opiniao/compreender-anos-30-evitar-nova-depressao-2024067), October 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
