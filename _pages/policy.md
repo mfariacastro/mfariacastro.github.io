@@ -62,7 +62,8 @@ layout: splash
 19. [The Comovement between Credit Spreads, Corporate Debt and Liquid Assets in Recent Crises](https://www.stlouisfed.org/on-the-economy/2021/november/comovement-credit-spreads-debt-assets-crises), On the Economy Blog, November 2021 (w./ J. Kozlowski and S. Jordan-Wood)
 20. [The Evolution of Household Net Worth during COVID-19](https://www.stlouisfed.org/on-the-economy/2021/november/evolution-household-net-worth-during-covid19), On the Economy Blog, November 2021 (w./ R. Silvera Zumaran)
 21. [The declining labor force](https://fredblog.stlouisfed.org/2022/03/the-declining-labor-force/), FRED blog, March 2022 (w./ Devin Werner)
-22. [The dollar and euro exchange rates break even](https://fredblog.stlouisfed.org/2022/08/the-dollar-and-euro-exchange-rates-break-even/), FRED blog, August 2022 (w. Sam Jordan-Wood)
+22. [The dollar and euro exchange rates break even](https://fredblog.stlouisfed.org/2022/08/the-dollar-and-euro-exchange-rates-break-even/), FRED blog, August 2022 (w./ Sam Jordan-Wood)
+23. [Real returns on major asset classes since the start of the pandemic](https://fredblog.stlouisfed.org/2022/10/real-returns-on-major-asset-classes-since-the-start-of-the-pandemic/), FRED blog, October 2022
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
