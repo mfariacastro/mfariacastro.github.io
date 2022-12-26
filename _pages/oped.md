@@ -63,5 +63,7 @@ layout: splash
 53. [Se acha que esta crise é igual às outras, não está a prestar atenção, Visao/Exame](https://visao.sapo.pt/exame/analise/analise-inconsistenciaproblematica/2022-08-03-se-acha-que-esta-crise-e-igual-as-outras-nao-esta-a-prestar-atencao/), August 2022 (PT)
 54. [A inflação e as transferências do Banco de Portugal para o Estado, ECO](https://eco.sapo.pt/especiais/a-inflacao-e-as-transferencias-do-banco-de-portugal-para-o-estado/), October 2022 (PT)
 55. [Compreender os anos 30 para evitar uma nova Grande Depressão, Publico](https://www.publico.pt/2022/10/15/opiniao/opiniao/compreender-anos-30-evitar-nova-depressao-2024067), October 2022 (PT)
+56. [Inflação a níveis históricos. Um "peso desproporcional" para as famílias mais vulneráveis, RTP](https://www.rtp.pt/noticias/economia/inflacao-a-niveis-historicos-um-peso-desproporcional-para-as-familias-mais-vulneraveis_n1446186), November 2022 (PT)
+57. [Entrevista a Revista da Associacao Portuguesa de Seguradores](https://www.apseguradores.pt/Portals/0/doc/publicacoes/RevistaAps10_PT_FINAL.pdf?ver=x3mLkvYpfRl7mOOtuvr-Wg%3D%3D), December 2022 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
