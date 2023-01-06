@@ -64,6 +64,7 @@ layout: splash
 21. [The declining labor force](https://fredblog.stlouisfed.org/2022/03/the-declining-labor-force/), FRED blog, March 2022 (w./ Devin Werner)
 22. [The dollar and euro exchange rates break even](https://fredblog.stlouisfed.org/2022/08/the-dollar-and-euro-exchange-rates-break-even/), FRED blog, August 2022 (w./ Sam Jordan-Wood)
 23. [Real returns on major asset classes since the start of the pandemic](https://fredblog.stlouisfed.org/2022/10/real-returns-on-major-asset-classes-since-the-start-of-the-pandemic/), FRED blog, October 2022
+24. [Retirements, Net Worth, and the Fall and Rise of Labor Force Participation](https://www.stlouisfed.org/on-the-economy/2023/jan/retirements-net-worth-labor-force-participation), On the Economy Blog, January 2023 (w./ Sam Jordan-Wood)
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
