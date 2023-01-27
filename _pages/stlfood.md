@@ -69,3 +69,4 @@ Most of these breweries also offer great food.
 * [Perennial](https://www.google.com/maps/place/Perennial+Artisan+Ales/@38.5431628,-90.2818381,14.75z/data=!4m6!3m5!1s0x87d8b65e6625ed7f:0x4068a5d42908984f!8m2!3d38.5454657!4d-90.2660243!16s%2Fg%2F1tf6mrg4), Patch
 * [Urban Chestnut Brewing Company](https://www.google.com/maps/place/Urban+Chestnut+Midtown+Brewery+and+Biergarten/@38.5432957,-90.3414665,12z/data=!4m10!1m2!2m1!1sucbc!3m6!1s0x87d8b4a739102cb7:0x7cd8ad2a7a5746e2!8m2!3d38.6379112!4d-90.2258098!15sCgR1Y2JjWgYiBHVjYmOSAQdicmV3ZXJ5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5sTlZsZlZGRm5FQUXgAQA!16s%2Fg%2F1tghq3mt), Midtown & The Grove
 * [The Side Project Cellar](https://www.google.com/maps/place/The+Side+Project+Cellar/@38.6120115,-90.3212414,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8caf514a04d5f:0xbdfb340de31eb885!8m2!3d38.612008!4d-90.3194009!16s%2Fg%2F11b6hmkts6), Maplewood
+
