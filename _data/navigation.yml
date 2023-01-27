@@ -10,6 +10,8 @@ main:
      url: /policy/
    - title: "Opinion"
      url: /oped/
+   - title: "STL Food Guide"
+     url: /stlfood/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
