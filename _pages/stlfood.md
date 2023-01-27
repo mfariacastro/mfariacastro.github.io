@@ -54,7 +54,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scene for a 
 * [Bolyard's Meat and Provisions](https://www.google.com/maps/place/Bolyard's+Meat+%26+Provisions/@38.6114651,-90.3223289,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8caf564e53059:0xfbcdd89a1080d60e!8m2!3d38.6114609!4d-90.3201402!16s%2Fg%2F11b6dlldqz), Sandwiches/Deli, Maplewood
 * [Balkan Treat Box](https://www.google.com/maps/place/Balkan+Treat+Box/@38.5921595,-90.3400574,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cbefa0efa8ed:0xf5b0abd4d7dabf02!8m2!3d38.5921553!4d-90.3378687!16s%2Fg%2F11gy9d59ms), Bosnian, Webster Groves
 
-# BBQ
+## BBQ
 There is a lot of great BBQ in St. Louis. I typically only recommend the following three. Bogart's and Pappy's have the best ribs in the city. The Shaved Duck is a full-service restaurant where you can eat while sitting down and having a drink.
 * [Bogart's Smokehouse](https://www.google.com/maps/place/Bogart's+Smokehouse/@38.6108859,-90.2048913,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b3a09d626a37:0x845a464b4ed5fadf!8m2!3d38.6108817!4d-90.2027026!16s%2Fg%2F1hcb3vc7c), Soulard
 * [Pappy's Smokehouse](https://www.google.com/maps/place/Pappy's+Smokehouse/@38.6350296,-90.2261752,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4a09930e6ab:0xe06663d762f1a9ce!8m2!3d38.6350254!4d-90.2239865!16s%2Fg%2F1tgdtp89), Midtown
