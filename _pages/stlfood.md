@@ -8,7 +8,7 @@ layout: splash
 ---
 # St. Louis Food & Drink Guide
 
-St. Louis has a surprisingly diverse and dynamic restaurant and bar scene for a city its size. I often get asked for recommendations by visitors (and even some locals), and thought it would be easier to compile a static list with links to the different establishments. This list does not follow any particular order.
+St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a city of its size. I often get asked for recommendations by visitors (and even some locals), and thought it would be easier to compile a static list with links to different establishments. This list does not follow any particular order.
 
 ## Eat
 
