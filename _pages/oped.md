@@ -70,5 +70,6 @@ layout: splash
 60. [Redução do balanço do BCE vai fazer subir taxas de juro da dívida portuguesa, dizem analistas, Dinheiro Vivo](https://www.dinheirovivo.pt/economia/nacional/reducao-do-balanco-do-bce-vai-fazer-subir-taxas-de-juro-da-divida-portuguesa-dizem-analistas-15577530.html), December 2022 (PT)
 61. [Como as medidas de cada governo conduzem a níveis diferentes de inflação, Publico](https://www.publico.pt/2023/01/12/economia/noticia/medidas-governo-conduzem-niveis-diferentes-inflacao-2034700), January 2023 (PT)
 62. Interview with CNN Portugal, February 2023 (PT)
+63. [Lucros puxam por preços e em Portugal pesam cada vez mais, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/lucros-puxam-por-precos-e-em-portugal-pesam-cada-vez-mais), March 2023 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
