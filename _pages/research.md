@@ -58,7 +58,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*  
 
-13. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_September2022.pdf), September 2022 <br/> 
+13. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_2023.pdf), April 2023 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/>
 
 14. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
