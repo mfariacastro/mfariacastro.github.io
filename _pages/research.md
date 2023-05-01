@@ -39,11 +39,15 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Book Chapters and Other Publications
-8. The Krugman-Macedo Diagram Revisited <br/>
+1. [Pandemic labor force participation and net worth fluctuations](https://mfariacastro.github.io/files/FJW.pdf)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2023 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood
+
+2. The Krugman-Macedo Diagram Revisited <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, 2021 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Miguel Lebre de Freitas](https://mlebredefreitas.wordpress.com/) 
 
-9. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
+3. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
