@@ -52,26 +52,26 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-10. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), September 2022 <br/>
+1. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), September 2022 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
-11. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
+2. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli<br/>
 
-12. [Evergreening](https://mfariacastro.github.io/files/FPS.pdf), January 2023, *R&R at the Journal of Financial Economics* <br/> 
+3. [Evergreening](https://mfariacastro.github.io/files/FPS.pdf), January 2023, *R&R at the Journal of Financial Economics* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*  
 
-13. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_2023.pdf), April 2023 <br/> 
+4. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_2023.pdf), April 2023 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/> 
 
-14. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
+5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-15. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/BFFH_2022.pdf), February 2022, *R&R at the Journal of Money, Credit, and Banking* <br/> 
+6. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/BFFH_2022.pdf), February 2022, *R&R at the Journal of Money, Credit, and Banking* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
 
-16. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
+7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-16. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
+8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
