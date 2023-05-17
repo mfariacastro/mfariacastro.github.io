@@ -73,5 +73,6 @@ layout: splash
 63. [Lucros puxam por preços e em Portugal pesam cada vez mais, Jornal de Negocios](https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/lucros-puxam-por-precos-e-em-portugal-pesam-cada-vez-mais), March 2023 (PT)
 64. [Profile of Ricardo Reis for Expresso's 50th anniversary](https://expresso.pt/50anos/100-personalidades/2023-03-09-Ricardo-Reis-para-la-das-expectativas--o-perfil-de-mais-um-dos-nomes-para-o-futuro-do-pais--f0e063bd), March 2023 (PT)
 65. [Profiled for Expresso's 50th anniversary](https://expresso.pt/50anos/100-personalidades/2023-03-11-Miguel-Faria-e-Castro-nada-mais-pratico-que-uma-boa-teoria-a087712b), March 2023 (PT)
+66. [QUEM GANHA COM A INFLAÇÃO: OS SETORES QUE ESTÃO A BENEFICIAR MAIS COM A CRISE E ONDE OS PREÇOS PODEM BAIXAR, Visao](https://visao.sapo.pt/atualidade/economia/2023-04-19-quem-ganha-com-a-inflacao-os-setores-que-estao-a-beneficiar-mais-com-a-crise-e-onde-os-precos-podem-baixar/), April 2023 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
