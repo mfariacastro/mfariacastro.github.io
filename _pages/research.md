@@ -58,7 +58,7 @@ layout: splash
 2. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli<br/>
 
-3. [Evergreening](https://mfariacastro.github.io/files/FPS.pdf), January 2023, *R&R at the Journal of Financial Economics* <br/> 
+3. [Evergreening](https://mfariacastro.github.io/files/FPS_June2023.pdf), June 2023, *R&R at the Journal of Financial Economics* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*  
 
