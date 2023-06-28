@@ -41,7 +41,7 @@ layout: splash
 ## Book Chapters and Other Publications
 1. [Pandemic labor force participation and net worth fluctuations](https://mfariacastro.github.io/files/FJW.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2023 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
 
 2. The Krugman-Macedo Diagram Revisited <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, 2021 <br/>
