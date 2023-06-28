@@ -75,5 +75,6 @@ layout: splash
 65. [Profiled for Expresso's 50th anniversary](https://expresso.pt/50anos/100-personalidades/2023-03-11-Miguel-Faria-e-Castro-nada-mais-pratico-que-uma-boa-teoria-a087712b), March 2023 (PT)
 66. [QUEM GANHA COM A INFLAÇÃO: OS SETORES QUE ESTÃO A BENEFICIAR MAIS COM A CRISE E ONDE OS PREÇOS PODEM BAIXAR, Visao](https://visao.sapo.pt/atualidade/economia/2023-04-19-quem-ganha-com-a-inflacao-os-setores-que-estao-a-beneficiar-mais-com-a-crise-e-onde-os-precos-podem-baixar/), April 2023 (PT)
 67. [Interview with Radio Renascenca](https://rr.sapo.pt/artigo/bolsa-de-futuro/2023/06/10/miguel-faria-e-castro-o-sistema-de-justica-e-um-dos-principais-entraves-a-produtividade-do-pais/334170/), May 2023 (PT)
+68. [Interview with Jornal Economico](https://jornaleconomico.pt/noticias/3a-feira-7h30-faria-e-castro-investimento-publico-colapsou-em-2011-e-apenas-recuperou-de-forma-modesta/), June 2023 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
