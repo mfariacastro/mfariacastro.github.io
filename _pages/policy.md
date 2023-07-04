@@ -66,6 +66,7 @@ layout: splash
 23. [Real returns on major asset classes since the start of the pandemic](https://fredblog.stlouisfed.org/2022/10/real-returns-on-major-asset-classes-since-the-start-of-the-pandemic/), FRED blog, October 2022
 24. [Retirements, Net Worth, and the Fall and Rise of Labor Force Participation](https://www.stlouisfed.org/on-the-economy/2023/jan/retirements-net-worth-labor-force-participation), On the Economy Blog, January 2023 (w./ Sam Jordan-Wood)
 25. [Excess Retirements Continue despite Ebbing COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2023/jun/excess-retirements-covid19-pandemic), On the Economy Blog, June 2023 (w./ Sam Jordan-Wood)
+   *Media Mentions: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784)*
 
 ## Other
 1. [Fiscal Policy and Inequality](https://www.stlouisfed.org/events/2018/09/ee-fiscalpolicy090618), Economic Education workshop for high school and college teachers
