@@ -52,26 +52,29 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-1. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), September 2022 <br/>
+1. [Artificial Intelligence and Inflation Forecasts](https://fariaecastro.net/files/InflationAI_072023.pdf), July 2023 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)<br/>
+
+2. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), September 2022 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
-2. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
+3. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli<br/>
 
-3. [Evergreening](https://mfariacastro.github.io/files/FPS_June2023.pdf), June 2023, *R&R at the Journal of Financial Economics* <br/> 
+4. [Evergreening](https://mfariacastro.github.io/files/FPS_June2023.pdf), June 2023, *R&R at the Journal of Financial Economics* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*  
 
-4. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_2023.pdf), April 2023 <br/> 
+5. [Credit and Liquidity Policies during Large Crises](https://mfariacastro.github.io/files/EFK_2023.pdf), April 2023 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/> 
 
-5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020, *R&R at the American Economic Journal: Macroeconomics* <br/>
+6. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-6. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_June23.pdf), June 2023, *Reject and Resubmit at the Journal of Money, Credit, and Banking* <br/> 
+7. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_June23.pdf), June 2023, *Reject and Resubmit at the Journal of Money, Credit, and Banking* <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
 
-7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
+8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
+9. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
