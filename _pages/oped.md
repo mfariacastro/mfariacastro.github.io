@@ -76,5 +76,7 @@ layout: splash
 66. [QUEM GANHA COM A INFLAÇÃO: OS SETORES QUE ESTÃO A BENEFICIAR MAIS COM A CRISE E ONDE OS PREÇOS PODEM BAIXAR, Visao](https://visao.sapo.pt/atualidade/economia/2023-04-19-quem-ganha-com-a-inflacao-os-setores-que-estao-a-beneficiar-mais-com-a-crise-e-onde-os-precos-podem-baixar/), April 2023 (PT)
 67. [Interview with Radio Renascenca](https://rr.sapo.pt/artigo/bolsa-de-futuro/2023/06/10/miguel-faria-e-castro-o-sistema-de-justica-e-um-dos-principais-entraves-a-produtividade-do-pais/334170/), May 2023 (PT)
 68. [Interview with Jornal Economico](https://jornaleconomico.pt/noticias/3a-feira-7h30-faria-e-castro-investimento-publico-colapsou-em-2011-e-apenas-recuperou-de-forma-modesta/), June 2023 (PT)
+69. [Interview with Jornal Economico](https://jornaleconomico.pt/noticias/eua-continuam-em-linha-para-aterragem-suave-projeta-miguel-faria-e-castro/), July 2023 (PT)
+70. [Book review of "O Governador" by Luis Rosa, centralbanking.com](https://www.centralbanking.com/central-banks/financial-stability/micro-prudential/7959133/book-notes-o-governador-by-luis-rosa), July 2023 (EN)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
