@@ -39,7 +39,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
 ## Book Chapters and Other Publications
-1. [Pandemic labor force participation and net worth fluctuations](https://mfariacastro.github.io/files/FJW.pdf)<br/>
+1. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2023/08/10/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2023 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
 
