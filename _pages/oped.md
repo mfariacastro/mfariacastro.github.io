@@ -78,5 +78,7 @@ layout: splash
 68. [Interview with Jornal Economico](https://jornaleconomico.pt/noticias/3a-feira-7h30-faria-e-castro-investimento-publico-colapsou-em-2011-e-apenas-recuperou-de-forma-modesta/), June 2023 (PT)
 69. [Interview with Jornal Economico](https://jornaleconomico.pt/noticias/eua-continuam-em-linha-para-aterragem-suave-projeta-miguel-faria-e-castro/), July 2023 (PT)
 70. [Book review of "O Governador" by Luis Rosa, centralbanking.com](https://www.centralbanking.com/central-banks/financial-stability/micro-prudential/7959133/book-notes-o-governador-by-luis-rosa), July 2023 (EN)
+71. [Como o Ozempic baralhou a economia dinamarquesa, Expresso](https://expresso.pt/economia/empresas/2023-08-31-Como-o-Ozempic-baralhou-a-economia-dinamarquesa-55cf1da0), August 2023 (PT)
+72. [Interview with Jornal de Negocios](https://www.jornaldenegocios.pt/economia/politica-monetaria/detalhe/normalizacao-do-mercado-de-trabalho-ja-acontece-diz-o-portugues-citado-por-lagarde), September 2023 (PT)
 
 *The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*
