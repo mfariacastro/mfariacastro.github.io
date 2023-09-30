@@ -59,7 +59,7 @@ layout: splash
 1. [Artificial Intelligence and Inflation Forecasts](https://fariaecastro.net/files/InflationAI_072023.pdf), July 2023 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)<br/>
 
-2. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), September 2022 <br/>
+2. A Quantitative Theory of Relationship Lending, *New draft coming soon* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
 3. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
