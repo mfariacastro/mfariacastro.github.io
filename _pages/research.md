@@ -71,8 +71,8 @@ layout: splash
 5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-6. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_June23.pdf), June 2023 <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira) and [Hans Holter](https://sites.google.com/site/hansaholter/)
+6. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Oct23.pdf), October 2023 <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega.
 
 7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
