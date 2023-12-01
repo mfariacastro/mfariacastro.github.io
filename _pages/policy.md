@@ -82,7 +82,7 @@ layout: splash
 
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://www.suerf.org/suer-policy-brief/29521/a-quantitative-analysis-of-the-countercyclical-capital-buffer), SUERF Policy Brief, August 2021
 
-8. [Retirements Increased During the COVID-19 Pandemic: Who Retired and Why?](https://www.stlouisfed.org/timely-topics/retirements-increased-during-pandemic), Timely Topics Podcast, March 2022
+8. [Retirements Increased During the COVID-19 Pandemic: Who Retired and Why?](https://www.stlouisfed.org/timely-topics/retirements-increased-during-pandemic), Timely Topics Podcast, March 2022<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Media Coverage: [Forbes](https://www.forbes.com/sites/eriksherman/2022/10/07/you-cant-understand-the-job-market-if-you-dont-get-self-employment/?sh=35639a5c2099)*
 
 9. [Do Banks Lend to Distressed Firms?](https://www.frbsf.org/economic-research/publications/economic-letter/2023/november/do-banks-lend-to-distressed-firms/), FRB San Francisco Economic Letter, November 2023 (w./ Pascal Paul and Juan M. Sanchez)
