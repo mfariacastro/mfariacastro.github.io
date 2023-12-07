@@ -64,7 +64,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Media Coverage: [MNI](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Investopedia](https://www.investopedia.com/why-no-one-wants-to-work-anymore-pandemic-market-boom-let-millions-retire-7554784)*
 26. [Federal Reserve remittances to the US Treasury](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/), FRED Blog, November 2023 (w/ Sam Jordan-Wood)
 27. [The Fed’s Remittances to the Treasury: Explaining the 'Deferred Asset'](https://www.stlouisfed.org/on-the-economy/2023/nov/fed-remittances-treasury-explaining-deferred-asset), On the Economy Blog, November 2023 (w/ Sam Jordan-Wood)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Media Coverage: [Reuters]([https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Media Coverage: [Reuters](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Wall Street Journal](https://www.wsj.com/articles/pro-take-fed-operating-losses-are-piling-up-amid-higher-interest-rates-5fbf927e)*
 
 ## Other
 1. [Rising Rates Impact Borrowing Costs for the U.S. Government, Too](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/rising-rates-borrowing-government), The Regional Economist, Third Quarter 2018 (w./ A. Bharadwaj)<br/>
