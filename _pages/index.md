@@ -16,7 +16,7 @@ My research focuses on macroeconomics and financial institutions.
 
 I graduated from [New York University](http://as.nyu.edu/econ.html) with a Ph.D. in Economics in 2017.
 
-[**Curriculum Vitae**](http://fariaecastro.net/assets/CV_FariaeCastro.pdf)
+[**Curriculum Vitae**](http://fariaecastro.net/assets/CV_FariaeCastro_WIP.pdf)
 
 **Contact Information**  
 Research Divison  
