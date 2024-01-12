@@ -6,7 +6,7 @@ layout: splash
 #sidebar:
 #  nav: "docs"
 ---
-<img style="float: right;" src="/assets/photo_cc.jpg" width="20">
+<img style="float: right;" src="/assets/photo_cc.jpg" width="200">
 
 **Welcome!**
 
