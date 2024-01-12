@@ -56,11 +56,12 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; special issue jointly edited with [Bill Dupor](https://billdupor.weebly.com/)
 
 ## Working Papers
-1. [Artificial Intelligence and Inflation Forecasts](https://fariaecastro.net/files/InflationAI_072023.pdf), July 2023 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)<br/>
 
-2. A Quantitative Theory of Relationship Lending, *New draft coming soon* <br/>
+1. [A Quantitative Theory of Relationship Lending](https://mfariacastro.github.io/files/DFC_2024.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
+
+2. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf), January 2024 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)<br/>
 
 3. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli<br/>
