@@ -57,7 +57,7 @@ layout: splash
 
 ## Working Papers
 
-1. [A Quantitative Theory of Relationship Lending](https://mfariacastro.github.io/files/DFC_2024.pdf)<br/>
+1. [A Quantitative Theory of Relationship Lending](https://mfariacastro.github.io/files/DFC_2024.pdf), January 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
 2. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf), January 2024 <br/>
