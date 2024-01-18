@@ -39,6 +39,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Olive + Oak](https://www.google.com/maps/place/Olive+%2B+Oak/@38.5931173,-90.3660103,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cb9444e07839:0x940472683fd5af8b!8m2!3d38.5931132!4d-90.3615256!16s%2Fg%2F11bccjjhwq), New American, Webster Groves
 * [Nippon Tei](https://www.google.com/maps/place/Nippon+Tei/@38.5961799,-90.4957507,17z/data=!3m2!4b1!5s0x87d8d3b118f6f925:0x6e985a29d4c184a2!4m6!3m5!1s0x87d8d3b158798eb3:0x21935aaebc4a9947!8m2!3d38.5961757!4d-90.493562!16s%2Fg%2F1vy7h3bd), Japanese, Manchester
 * [Stone Soup Cottage](https://www.google.com/maps/place/Stone+Soup+Cottage/@38.7562704,-90.663452,15z/data=!4m2!3m1!1s0x0:0x7516b3a29bd3119b?sa=X&ved=2ahUKEwjw-eXb8ej8AhVUhYkEHWp1DBIQ_BJ6BAh8EAg), French, St. Peter's
+* [Wright's Tavern](https://www.google.com/maps/place/Wright's+Tavern/@38.6427791,-90.3344146,15z/data=!4m2!3m1!1s0x0:0x360c5f80a3d3d804?sa=X&ved=2ahUKEwiZyJG6_uWDAxUKmmoFHcflC70Q_BJ6BAgQEAA), Steakhouse, Clayton
 
 ## Casual
 * [Lona's Lil Eats](https://www.google.com/maps/place/Lona's+Lil+Eats/@38.6102158,-90.2312611,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b47fccee2a1d:0xa12a5a4a22fc4d33!8m2!3d38.6102117!4d-90.2267764!16s%2Fg%2F11bbt5lxgg), Chinese Fusion, Fox Park
@@ -55,7 +56,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Bolyard's Meat and Provisions](https://www.google.com/maps/place/Bolyard's+Meat+%26+Provisions/@38.6114651,-90.3223289,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8caf564e53059:0xfbcdd89a1080d60e!8m2!3d38.6114609!4d-90.3201402!16s%2Fg%2F11b6dlldqz), Sandwiches/Deli, Maplewood
 * [Balkan Treat Box](https://www.google.com/maps/place/Balkan+Treat+Box/@38.5921595,-90.3400574,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cbefa0efa8ed:0xf5b0abd4d7dabf02!8m2!3d38.5921553!4d-90.3378687!16s%2Fg%2F11gy9d59ms), Bosnian, Webster Groves
 * [Tiny Chef](https://www.google.com/maps/place/Tiny+Chef/@38.5832354,-90.2694403,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b58ca8371fa7:0x49be684fb526383!8m2!3d38.5832312!4d-90.2668654!16s%2Fg%2F11h6r_3g_t?entry=ttu), Korean, Bevo
-* [Truc Lam]https://www.google.com/maps/place/Truc+Lam+Restaurant/@38.591989,-90.2505472,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4472b44d73b:0xdc1cf1a5885d83e0!8m2!3d38.5919848!4d-90.2479723!16s%2Fg%2F1tg_xmnl?entry=ttu), Vietnamese, Tower Grove South
+* [Truc Lam](https://www.google.com/maps/place/Truc+Lam+Restaurant/@38.591989,-90.2505472,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4472b44d73b:0xdc1cf1a5885d83e0!8m2!3d38.5919848!4d-90.2479723!16s%2Fg%2F1tg_xmnl?entry=ttu), Vietnamese, Tower Grove South
 
 ## BBQ
 There is a lot of great BBQ in St. Louis. If you are only in town for a few days I typically recommend the following three. Bogart's and Pappy's have the best ribs in the city. The Shaved Duck is a full-service restaurant where you can eat while sitting down and having a drink.
