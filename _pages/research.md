@@ -10,6 +10,11 @@ layout: splash
 # Research
 
 ## Published & Accepted Articles
+
+1. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, Forthcoming <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
+
 1. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, Accepted <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)
@@ -21,10 +26,6 @@ layout: splash
 3. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2024 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
-
-4. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forthcoming at the **Review of Economics and Statistics**, 2022 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 5. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **European Economic Review**, 2021 <br/>
