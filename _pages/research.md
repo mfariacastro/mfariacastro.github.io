@@ -20,7 +20,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 2. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, 2024 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, 2024 (Lead Article/Editor's Choice)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home), *press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
 
 3. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)<br/>
