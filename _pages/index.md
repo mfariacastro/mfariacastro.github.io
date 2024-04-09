@@ -10,7 +10,7 @@ layout: splash
 
 **Welcome!**
 
-I am an Economic Policy Advisor in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/) and a Lecturer in the Department of Economics at [Washington University in St. Louis](https://economics.wustl.edu/).
+I am a Research Economist and Economic Policy Advisor in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/) and a Lecturer in the Department of Economics at [Washington University in St. Louis](https://economics.wustl.edu/).
 
 My research focuses on macroeconomics and financial institutions.
 
