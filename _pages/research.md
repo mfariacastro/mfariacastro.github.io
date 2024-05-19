@@ -16,7 +16,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)
 
 1. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, Forthcoming <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, 2024 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 2. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)<br/>
