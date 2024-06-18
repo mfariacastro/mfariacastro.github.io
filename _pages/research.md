@@ -62,6 +62,8 @@ layout: splash
 
 ## Working Papers
 
+1. [The St. Louis Fed DSGE Model](https://mfariacastro.github.io/files/FRBSTL_DSGE.pdf), June 2024<br/>
+
 1. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), March 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
