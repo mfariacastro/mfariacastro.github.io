@@ -62,6 +62,9 @@ layout: splash
 
 ## Working Papers
 
+1. [An Empirical Analysis of the Cost of Borrowing](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-016.pdf), July 2024<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Sam Jordan-Wood and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/> 
+  
 1. [The St. Louis Fed DSGE Model](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-014.pdf), June 2024<br/>
 
 1. [A Quantitative Theory of Relationship Lending](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), March 2024<br/>
