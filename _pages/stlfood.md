@@ -18,12 +18,11 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Yemanja](https://www.google.com/maps/place/Yemanja+Brasil+Restaurant/@38.6001986,-90.2236649,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b3889d486e5d:0x571e03f6189f0cea!8m2!3d38.6001944!4d-90.2214762!16s%2Fg%2F1tl8l7lv), Brazilian, Benton Park
 * [Sado](https://www.google.com/maps/place/Sado/@38.6181258,-90.2726375,15z/data=!4m6!3m5!1s0x87d8b548fddff103:0x1949c87bb4c4fed3!8m2!3d38.6181258!4d-90.2726375!16s%2Fg%2F11tt1fzb0p?entry=ttu), Japanese, The Hill
 * [Indo](https://www.google.com/maps/place/iNDO/@38.6192253,-90.2582764,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b552366426cf:0x438a03b63dc87615!8m2!3d38.6192211!4d-90.2560877!16s%2Fg%2F11fl42mvf7), Asian Fusion, Botanical Heights
-* [Olio](https://www.google.com/maps/place/OLIO/@38.6193602,-90.290562,14z/data=!4m10!1m2!2m1!1solio!3m6!1s0x87d8b4fb1aa0404d:0xa53840f1b15c7c76!8m2!3d38.6193602!4d-90.2555431!15sCgRvbGlvWgYiBG9saW-SARhtZWRpdGVycmFuZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11xfm338h), Israeli, Botanical Heights
+* [Esca](https://bengelina.com/esca), French/Italian, Delmar
 * [Union Loafers](https://www.google.com/maps/place/Union+Loafers+Caf%C3%A9+and+Bread+Bakery/@38.619806,-90.2581366,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4fb3aea95df:0xcc016ae069955204!8m2!3d38.6198018!4d-90.2559479!16s%2Fg%2F11bw6tg4rj), Pizza/Sandwiches, Botanical Heights
 * [Meskerem](https://www.google.com/maps/place/Meskerem+Ethiopian+Restaurant/@38.5987623,-90.2448886,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b468233ddcb7:0xdf6ed6af5a4e7ce0!8m2!3d38.5987581!4d-90.2426999!16s%2Fg%2F1wj_6kt7), Ethiopian/Eritrean, Tower Grove South
 * [Sameem](https://www.google.com/maps/place/Sameem+Afghan+Restaurant+%26+Catering/@38.6269583,-90.2606041,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4e15dc0e669:0x547688c8ee3a2024!8m2!3d38.6269541!4d-90.2584154!16s%2Fg%2F1hc6wz2bg), Afghan, The Grove
 * [Pizzeria da Gloria](https://www.google.com/maps/place/Pizzeria+da+Gloria/@38.6159342,-90.2770261,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b52243280aaf:0x8de154d83a3d5b1b!8m2!3d38.6159301!4d-90.2725414!16s%2Fg%2F11hxh4xxjy), Pizza, The Hill
-* [58hundred](https://www.google.com/maps/place/58hundred/@38.6072693,-90.2879297,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5f4fe59164d:0xe338045dc33e836e!8m2!3d38.6072651!4d-90.285741!16s%2Fg%2F11gvs7xt1y), New American, Clifton Heights
 * [Menya Rui](https://www.google.com/maps/place/Menya+Rui/@38.599195,-90.2950449,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5db0380a15f:0xaacf254e7ff403a7!8m2!3d38.5991908!4d-90.2928562!16s%2Fg%2F11rjq4n7sw), Ramen, Northampton
 * [Russell's on Macklind](https://www.google.com/maps/place/Russell's+on+Macklind/@38.5867181,-90.2866283,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5eb993bca65:0x918bb96fb916ec0d!8m2!3d38.5867139!4d-90.2844396!16s%2Fg%2F12hnx4m75), Brunch, Southampton
 * [Brasserie](https://www.google.com/maps/place/Brasserie+by+Niche/@38.6400684,-90.2618421,15z/data=!4m2!3m1!1s0x0:0x4ccafbb414987011?sa=X&ved=2ahUKEwig0qHH6-j8AhVSmWoFHa_JDn8Q_BJ6BQiCARAI), French, Central West End
@@ -57,6 +56,9 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Balkan Treat Box](https://www.google.com/maps/place/Balkan+Treat+Box/@38.5921595,-90.3400574,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cbefa0efa8ed:0xf5b0abd4d7dabf02!8m2!3d38.5921553!4d-90.3378687!16s%2Fg%2F11gy9d59ms), Bosnian, Webster Groves
 * [Tiny Chef](https://www.google.com/maps/place/Tiny+Chef/@38.5832354,-90.2694403,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b58ca8371fa7:0x49be684fb526383!8m2!3d38.5832312!4d-90.2668654!16s%2Fg%2F11h6r_3g_t?entry=ttu), Korean, Bevo
 * [Truc Lam](https://www.google.com/maps/place/Truc+Lam+Restaurant/@38.591989,-90.2505472,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4472b44d73b:0xdc1cf1a5885d83e0!8m2!3d38.5919848!4d-90.2479723!16s%2Fg%2F1tg_xmnl?entry=ttu), Vietnamese, Tower Grove South
+* [Well Met Cafe](https://www.wellmetstl.com/), Coffee shop, Shaw
+* [Coffeestamp], Coffee shop, South Jefferson
+* [The Mud House], Brunch, Cherokee
 
 ## BBQ
 There is a lot of great BBQ in St. Louis. If you are only in town for a few days I typically recommend the following three. Bogart's and Pappy's have the best ribs in the city. The Shaved Duck is a full-service restaurant where you can eat while sitting down and having a drink.
