@@ -57,8 +57,8 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Tiny Chef](https://www.google.com/maps/place/Tiny+Chef/@38.5832354,-90.2694403,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b58ca8371fa7:0x49be684fb526383!8m2!3d38.5832312!4d-90.2668654!16s%2Fg%2F11h6r_3g_t?entry=ttu), Korean, Bevo
 * [Truc Lam](https://www.google.com/maps/place/Truc+Lam+Restaurant/@38.591989,-90.2505472,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4472b44d73b:0xdc1cf1a5885d83e0!8m2!3d38.5919848!4d-90.2479723!16s%2Fg%2F1tg_xmnl?entry=ttu), Vietnamese, Tower Grove South
 * [Well Met Cafe](https://www.wellmetstl.com/), Coffee shop, Shaw
-* [Coffeestamp], Coffee shop, South Jefferson
-* [The Mud House], Brunch, Cherokee
+* [Coffeestamp](https://www.coffeestamp.com/), Coffee shop, South Jefferson
+* [The Mud House](https://www.themudhousestl.com/), Brunch, Cherokee
 
 ## BBQ
 There is a lot of great BBQ in St. Louis. If you are only in town for a few days I typically recommend the following three. Bogart's and Pappy's have the best ribs in the city. The Shaved Duck is a full-service restaurant where you can eat while sitting down and having a drink.
