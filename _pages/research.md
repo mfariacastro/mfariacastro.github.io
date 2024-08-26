@@ -76,17 +76,18 @@ layout: splash
 2. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli<br/>
 
-3. [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2024 <br/> 
+3. [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2024 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *R&R at the JPE: Macro* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/)<br/> 
 
-4. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
+5. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-5. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Jun2024.pdf), June 2024 <br/> 
+6. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Jun2024.pdf), June 2024 <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *R&R at the Journal of Public Economics* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega.
 
-6. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
+7. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/)  
 
-7. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
+8. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
