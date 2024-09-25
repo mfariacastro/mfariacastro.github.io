@@ -71,6 +71,7 @@ layout: splash
 1. [The St. Louis Fed DSGE Model](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-014.pdf), June 2024<br/>
 
 1. [A Quantitative Analysis of Bank Lending Relationships](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), August 2024<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *R&R at the Journal of Financial Economics* <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
 2. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022 <br/> 
