@@ -11,8 +11,9 @@ layout: splash
 
 ## Working Papers
 
-1. [Dissecting the Great Retirement Boom](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-017.pdf), July 2024 (with [Serdar Birinci](https://serdarbirinci.weebly.com/) and [Kurt See](https://kurtsee.weebly.com/))<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/> 
+1. [Dissecting the Great Retirement Boom](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-017.pdf), July 2024<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Serdar Birinci](https://serdarbirinci.weebly.com/) and [Kurt See](https://kurtsee.weebly.com/) <br/>
 
 2. [An Empirical Analysis of the Cost of Borrowing](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-016.pdf), July 2024 (with Sam Jordan-Wood and [Julian Kozlowski](http://www.juliankozlowski.com/))<br/>
 
