@@ -36,9 +36,9 @@ layout: splash
 
 8. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Jun2024.pdf), June 2024<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Public Economics** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega<br/>
 
-9. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
+9. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) <br/>
     
 10. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
