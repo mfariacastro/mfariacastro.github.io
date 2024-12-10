@@ -18,7 +18,7 @@ layout: splash
 2. [An Empirical Analysis of the Cost of Borrowing](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-016.pdf), July 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Sam Jordan-Wood and [Julian Kozlowski](http://www.juliankozlowski.com/) <br/>
 
-3. [The St. Louis Fed DSGE Model](https://github.com/mfariacastro/mfariacastro.github.io/blob/master/files/FRBSTL_DSGE.pdf), December 2024<br/>
+3. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), December 2024<br/>
 
 4. [A Quantitative Analysis of Bank Lending Relationships](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), August 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Financial Economics** <br/>
