@@ -34,7 +34,7 @@ layout: splash
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
-8. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Jun2024.pdf), June 2024<br/> 
+8. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Dec2024.pdf), December 2024<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Public Economics** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega<br/>
 
