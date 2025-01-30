@@ -11,6 +11,9 @@ layout: splash
 
 ## Working Papers
 
+1. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_jan2025.pdf), January 2025<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Julian Kozlowski](http://www.juliankozlowski.com/) and [Jeremy Majerovitz](https://majerovitz.com/)<br/>
+
 1. [Dissecting the Great Retirement Boom](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-017.pdf), July 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Serdar Birinci](https://serdarbirinci.weebly.com/) and [Kurt See](https://kurtsee.weebly.com/) <br/>
