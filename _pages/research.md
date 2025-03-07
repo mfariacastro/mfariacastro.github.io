@@ -23,7 +23,7 @@ layout: splash
 
 3. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), December 2024<br/>
 
-4. [A Quantitative Analysis of Bank Lending Relationships](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-033.pdf), August 2024<br/>
+4. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf), March 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Financial Economics** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
 
