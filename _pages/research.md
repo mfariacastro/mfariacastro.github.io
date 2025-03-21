@@ -12,37 +12,37 @@ layout: splash
 ## Working Papers
 
 1. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_jan2025.pdf), January 2025<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Julian Kozlowski](http://www.juliankozlowski.com/) and [Jeremy Majerovitz](https://majerovitz.com/)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Julian Kozlowski and Jeremy Majerovitz <br/>
 
-1. [Dissecting the Great Retirement Boom](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-017.pdf), July 2024<br/>
+1. [Dissecting the Great Retirement Boom](https:/mfariacastro.github.io/files/BFS_Retirement_March2025.pdf), March 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Serdar Birinci](https://serdarbirinci.weebly.com/) and [Kurt See](https://kurtsee.weebly.com/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Serdar Birinci and Kurt See <br/>
 
 2. [An Empirical Analysis of the Cost of Borrowing](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-016.pdf), July 2024<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Sam Jordan-Wood and [Julian Kozlowski](http://www.juliankozlowski.com/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Sam Jordan-Wood and Julian Kozlowski <br/>
 
 3. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), December 2024<br/>
 
 4. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf), March 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Financial Economics** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Kyle Dempsey<br/>
 
 5. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Avantika Pal](https://olin.wustl.edu/EN-US/academic-programs/PhD/Pages/PhdDetail.aspx?username=avantika.pal), [Radhakrishnan Gopalan](http://apps.olin.wustl.edu/faculty/Gopalan/), [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home) and Vijay Yerramilli <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli <br/>
 
 6. [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2024<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the JPE: Macro** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Mahdi Ebsim](https://www.stlouisfed.org/authors/mahdi-ebsim) and [Julian Kozlowski](http://www.juliankozlowski.com/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Mahdi Ebsim and Julian Kozlowski <br/>
 
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
 
 8. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Dec2024.pdf), December 2024<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Public Economics** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/), [Miguel H. Ferreira](https://sites.google.com/view/miguelhferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and Valter Nobrega<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Pedro Brinca, Miguel H. Ferreira, Hans Holter and Valter Nobrega<br/>
 
 9. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joseba Martinez and Thomas Philippon <br/>
     
 10. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015 
 
