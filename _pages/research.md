@@ -44,7 +44,7 @@ layout: splash
 
 ## Published & Accepted Articles
 
-1. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf), March 2025<br/>
+1. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, conditionally accepted <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Kyle Dempsey<br/>
 
