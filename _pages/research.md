@@ -23,10 +23,6 @@ layout: splash
 
 3. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), December 2024<br/>
 
-4. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf), March 2025<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Financial Economics** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Kyle Dempsey<br/>
-
 5. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli <br/>
 
@@ -48,43 +44,47 @@ layout: splash
 
 ## Published & Accepted Articles
 
-1. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2024 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Fernando Leibovici](https://www.fernandoleibovici.com/)
+1. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf), March 2025<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conditionally accepted at the Journal of Financial Economics** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Kyle Dempsey<br/>
 
-1. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
+2. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2024 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Fernando Leibovici
+
+3. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economics and Statistics**, 2024 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
-2. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)<br/>
+4. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, 2024 (Lead Article/Editor's Choice)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pascal Paul](http://www.pascalpaul.de/) and [Juan M. Sanchez](https://sites.google.com/view/juanmsanchezweb/home), *press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Pascal Paul and Juan M. Sanchez, *press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
 
-3. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)<br/>
+5. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review, Federal Reserve Bank of St. Louis**, 2024 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
 
-5. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
+6. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **European Economic Review**, 2021 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Pedro Brinca](http://pedrobrinca.pt/) and [Joao B. Duarte](http://jbduarte.com/), code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
 
-6. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf) <br/>
+7. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Economic Dynamics & Control**, 2021 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replication code at the [Epi-MMB database](https://www.epi-mmb.com/download-code), *mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*  
 
-7. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
+8. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Monetary Economics**, 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/), *mentions: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)* 
 
-8. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
+9. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Review of Economic Studies**, 2017  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Joseba Martinez](http://www.josebamartinez.me/) and [Thomas Philippon](http://pages.stern.nyu.edu/~tphilipp/) 
 
-9. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
+10. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Banco de Portugal Economic Studies**, 2015  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Matteo Crosignani](http://matteocrosignani.com/) and [Luis Fonseca](http://www.luispfonseca.com/), *mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
 
-10. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
+11. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Studies in Economics and Finance**, 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Joao Zambujal-Oliveira
 
