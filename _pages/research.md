@@ -45,7 +45,7 @@ layout: splash
 ## Published & Accepted Articles
 
 1. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, conditionally accepted <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Journal of Financial Economics**, accepted <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Kyle Dempsey<br/>
 
 2. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)<br/>
