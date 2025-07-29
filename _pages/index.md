@@ -10,11 +10,11 @@ layout: splash
 
 **Welcome!**
 
-I am an Economist and Economic Policy Advisor in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/) and a Lecturer in the Department of Economics at [Washington University in St. Louis](https://economics.wustl.edu/).
+I am an Economist and Economic Policy Advisor in the Research Division of the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/), and a Lecturer in the Department of Economics at [Washington University in St. Louis](https://economics.wustl.edu/).
 
-My research focuses on macroeconomics and financial institutions.
+My research focuses on macroeconomics and financial economics.
 
-I graduated from [New York University](http://as.nyu.edu/econ.html) with a Ph.D. in Economics in 2017.
+I received my Ph.D. in Economics from [New York University](http://as.nyu.edu/econ.html) in 2017.
 
 [**Curriculum Vitae**](http://fariaecastro.net/assets/CV_FariaeCastro_WIP.pdf)
 
