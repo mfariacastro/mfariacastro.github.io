@@ -26,9 +26,10 @@ layout: splash
 5. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli <br/>
 
-6. [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf), February 2024<br/>
+6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_R2.pdf), August 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the JPE: Macro** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Mahdi Ebsim and Julian Kozlowski <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*  
