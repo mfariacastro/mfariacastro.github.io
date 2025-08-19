@@ -14,7 +14,7 @@ layout: splash
 1. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_0625.pdf), June 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Julian Kozlowski and Jeremy Majerovitz <br/>
 
-1. [Dissecting the Great Retirement Boom](https:/mfariacastro.github.io/files/BFS_Retirement_March2025.pdf), March 2025<br/>
+1. [Dissecting the Great Retirement Boom](https:/mfariacastro.github.io/files/BFS_August.pdf), August 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Serdar Birinci and Kurt See <br/>
 
