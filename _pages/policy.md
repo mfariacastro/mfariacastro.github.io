@@ -40,11 +40,12 @@ layout: splash
 26. [Federal Reserve remittances to the US Treasury](https://fredblog.stlouisfed.org/2023/11/federal-reserve-remittances-to-the-us-treasury/), FRED Blog, November 2023 (w/ Sam Jordan-Wood)
 27. [The Fed’s Remittances to the Treasury: Explaining the 'Deferred Asset'](https://www.stlouisfed.org/on-the-economy/2023/nov/fed-remittances-treasury-explaining-deferred-asset), On the Economy Blog, November 2023 (w/ Sam Jordan-Wood)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Media Coverage: [Reuters](https://marketnews.com/mni-interview-excess-retirements-peak-set-to-recede-fed-econ), [Wall Street Journal](https://www.wsj.com/articles/pro-take-fed-operating-losses-are-piling-up-amid-higher-interest-rates-5fbf927e), [Turkish State Media](https://www.aa.com.tr/tr/dunya/fedin-zarari-122-6-milyar-dolara-ulasti/3074371)*
-28. [Commercial Real Estate Exposure and Bank Stock Returns](https://www.stlouisfed.org/on-the-economy/2024/apr/commercial-real-estate-exposure-bank-stock-returns), On the Economy Blog, April 2024 (w/ Sam Jordan-Wood)<br/>
-29. [Recent Trends in Banks’ Commercial Real Estate Exposure](https://www.stlouisfed.org/on-the-economy/2024/jul/trends-banks-commercial-real-estate-exposure), On the Economy Blog, July 2024 (w/ Marie Hogan and Sam Jordan-Wood)
-30. [A Look at Inflation in Recent Years through the Lens of a Macroeconomic Model](https://www.stlouisfed.org/on-the-economy/2025/jan/look-inflation-recent-years-lens-macroeconomic-model), On the Economy Blog, January 2025
-31. [Measuring Uncertainty](https://fredblog.stlouisfed.org/2025/04/measuring-uncertainty/), FRED Blog, April 2025 (w/ Marie Hogan)
-32. [U.S. Retirement Normalization following the COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2025/jul/us-retirement-normalization-covid19-pandemic), On the Economy Blog, July 2025 (w/ Serdar Birinci, Kurt See, and Gus Gerlach)
+28. [Stress Testing Banks on Commercial Real Estate](https://www.stlouisfed.org/on-the-economy/2023/dec/stress-testing-banks-on-commercial-real-estate), On the Economy Blog, December 2023 (w/ Sam Jordan-Wood)<br/>
+29. [Commercial Real Estate Exposure and Bank Stock Returns](https://www.stlouisfed.org/on-the-economy/2024/apr/commercial-real-estate-exposure-bank-stock-returns), On the Economy Blog, April 2024 (w/ Sam Jordan-Wood)<br/>
+30. [Recent Trends in Banks’ Commercial Real Estate Exposure](https://www.stlouisfed.org/on-the-economy/2024/jul/trends-banks-commercial-real-estate-exposure), On the Economy Blog, July 2024 (w/ Marie Hogan and Sam Jordan-Wood)
+31. [A Look at Inflation in Recent Years through the Lens of a Macroeconomic Model](https://www.stlouisfed.org/on-the-economy/2025/jan/look-inflation-recent-years-lens-macroeconomic-model), On the Economy Blog, January 2025
+32. [Measuring Uncertainty](https://fredblog.stlouisfed.org/2025/04/measuring-uncertainty/), FRED Blog, April 2025 (w/ Marie Hogan)
+33. [U.S. Retirement Normalization following the COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2025/jul/us-retirement-normalization-covid19-pandemic), On the Economy Blog, July 2025 (w/ Serdar Birinci, Kurt See, and Gus Gerlach)
 
 
 ## St. Louis Fed Economic Synopses
