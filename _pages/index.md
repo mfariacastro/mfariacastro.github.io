@@ -16,8 +16,6 @@ My research focuses on macroeconomics and financial economics.
 
 I received my Ph.D. in Economics from [New York University](http://as.nyu.edu/econ.html) in 2017.
 
-**Conference alert**: I am co-organizing the 4th Banco de Portugal Winter Research Workshop, a conference for economists at central banks and policy institutions working on topics in macroeconomics and finance. The 2025 edition will be held in Lisbon on December 19. Paper submissions are open [here](https://sites.google.com/view/portuguesearoundtheworldcbe/home).
-
 [**Curriculum Vitae**](http://fariaecastro.net/assets/CV_FariaeCastro_WIP.pdf)
 
 **Contact Information**  
