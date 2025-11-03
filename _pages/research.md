@@ -18,7 +18,7 @@ layout: splash
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R&R at the Journal of Monetary Economics** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Serdar Birinci and Kurt See <br/>
 
-2. [An Empirical Analysis of the Cost of Borrowing](https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-016.pdf), July 2024<br/>
+2. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_November2025.pdf), November 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Sam Jordan-Wood and Julian Kozlowski <br/>
 
 3. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), September 2025<br/>
