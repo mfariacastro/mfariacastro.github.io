@@ -10,7 +10,7 @@ layout: splash
 # Research
 
 ## Working Papers
-1. [Expectations on Wealth Returns: Implications for Labor Supply During the Retirement Boom​ ](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025<br/>
+1. [Expectations on Wealth Returns: Implications for Labor Supply During the Retirement Boom​](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Serdar Birinci and Kurt See <br/>
 
 2. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025<br/>
