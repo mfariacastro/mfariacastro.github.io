@@ -14,7 +14,7 @@ When I'm not working or parenting, I enjoy (and often read about):
 * cooking & wine
 * art history & architecture
 * running
-* vexillology - I'm a member of [NAVA](https://www.nava.org/) and have contributed to its publications
 * science/speculative fiction - my favorite authors are [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe) and [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)
-* Magic: The Gathering - check my current decks at [Moxfield](https://moxfield.com/users/mfariacastro)
+* vexillology - I'm a member of [NAVA](https://www.nava.org/) and have contributed to its publications
+* [Magic: The Gathering](https://moxfield.com/users/mfariacastro)
 
