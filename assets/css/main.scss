@@ -1,4 +1,13 @@
-/* homepage block */
+---
+# Only the triple-dashes are needed for Jekyll to process this as SCSS.
+---
+
+@charset "utf-8";
+
+/* Minimal Mistakes theme */
+@import "minimal-mistakes";
+
+/* ===== Pau-style homepage block (your custom styles) ===== */
 
 .prb-top{
   display: flex;
