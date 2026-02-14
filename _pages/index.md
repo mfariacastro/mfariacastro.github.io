@@ -18,12 +18,12 @@ layout: page
     </div>
   </div>
 </div>
-<strong>Curriculum Vitae</strong> { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
-Contact { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
-Research interests { Monetary Economics | Financial Economics }  
-Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }  
-Current teaching { [Intermediate Macroeconomic Theory at WashU (Econ 4002)](https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf), Spring 2026 }  
-Calls for papers {[19th PEJ annual meeting](https://www.ua.pt/pt/pej2026/) | 2nd St. Louis Macrofinance Workshop (coming soon)}  
+**Curriculum Vitae**: [pdf](/files/CV_FariaeCastro_WIP.pdf)<br/>
+**Contact**: [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org)<br/>
+**Research interests**: Monetary Economics · Financial Economics<br/>
+**Research profiles**: [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) · [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) · [ORCID](https://orcid.org/0000-0002-3759-2172)<br/>
+**Current teaching**: [Intermediate Macroeconomic Theory (Econ 4002, WashU)](https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf), Spring 2026<br/>
+**Calls for papers**: [19th PEJ annual meeting](https://www.ua.pt/pt/pej2026/) · 2nd St. Louis Macrofinance Workshop (coming soon)
 
 ---
 
