@@ -1,6 +1,8 @@
 main:
   - title: "Research/CV"
     url: /
+  - title: "Teaching"
+    url: /teaching/
   - title: "Policy"
     url: /policy/
   - title: "Opinion"
