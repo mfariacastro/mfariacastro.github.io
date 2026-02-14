@@ -6,7 +6,7 @@ layout: page
 
 # St. Louis Food & Drink Guide
 
-St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a city of its size. I often get asked for recommendations by visitors (and even some locals), and thought it would be easier to compile a static list with links to different establishments. This list does not follow any particular order.
+St. Louis has a surprisingly diverse and dynamic restaurant and bar scene. I often get asked for recommendations by visitors (and even some locals), so I keep this page as a simple, living list of places I like—organized loosely by type. This list does not follow any particular order.
 
 ## Eat
 
@@ -37,6 +37,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Nippon Tei](https://www.google.com/maps/place/Nippon+Tei/@38.5961799,-90.4957507,17z/data=!3m2!4b1!5s0x87d8d3b118f6f925:0x6e985a29d4c184a2!4m6!3m5!1s0x87d8d3b158798eb3:0x21935aaebc4a9947!8m2!3d38.5961757!4d-90.493562!16s%2Fg%2F1vy7h3bd), Japanese, Manchester
 * [Stone Soup Cottage](https://www.google.com/maps/place/Stone+Soup+Cottage/@38.7562704,-90.663452,15z/data=!4m2!3m1!1s0x0:0x7516b3a29bd3119b?sa=X&ved=2ahUKEwjw-eXb8ej8AhVUhYkEHWp1DBIQ_BJ6BAh8EAg), French, St. Peter's
 * [Wright's Tavern](https://www.google.com/maps/place/Wright's+Tavern/@38.6427791,-90.3344146,15z/data=!4m2!3m1!1s0x0:0x360c5f80a3d3d804?sa=X&ved=2ahUKEwiZyJG6_uWDAxUKmmoFHcflC70Q_BJ6BAgQEAA), Steakhouse, Clayton
+* [Mainlander](https://www.mainlanderstl.com/), New American, Central West End
 
 ## Casual
 
@@ -58,6 +59,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Well Met Cafe](https://www.wellmetstl.com/), Coffee shop, Shaw
 * [Coffeestamp](https://www.coffeestamp.com/), Coffee shop, South Jefferson
 * [The Mud House](https://www.themudhousestl.com/), Brunch, Cherokee
+* [Teerak](https://teerakthai.com/), Thai, Shaw
 
 ## BBQ
 
@@ -85,7 +87,7 @@ Most of these breweries also offer great food.
 
 * [4hands Brewing Co](https://www.google.com/maps/place/4+Hands+Brewing+Co/@38.6149656,-90.1997226,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b308c68c4673:0x17df1b5f07a3beaf!8m2!3d38.6149614!4d-90.1975339!16s%2Fg%2F1w96h8g1), Downtown
 * [Rockwell Beer Company](https://www.google.com/maps/place/Rockwell+Beer+Company/@38.6150316,-90.2325533,13z/data=!4m10!1m2!2m1!1srockwell+beer!3m6!1s0x87d8b4ef408fffff:0x6d7face385da9e49!8m2!3d38.6256086!4d-90.2512742!15sCg1yb2Nrd2VsbCBiZWVyIgOIAQFaDyINcm9ja3dlbGwgYmVlcpIBB2JyZXdlcnngAQA!16s%2Fg%2F11f5h3swqv), The Grove
-* [Alpha Brewing Company](ha+Brewing+Company/@38.5985478,-90.267226,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b33d94ca1249:0xc9deb3c966700820!8m2!3d38.5985437!4d-90.2627413!16s%2Fg%2F1hhvx1208), Tower Grove South
+* [Alpha Brewing Company](https://www.google.com/maps/place/alpha+brewing+company/data=!4m2!3m1!1s0x87d8b33d94ca1249:0xc9deb3c966700820?sa=X&ved=1t:242&ictx=111), Tower Grove South
 * [2nd Shift Brewing](https://www.google.com/maps/place/2nd+Shift+Brewing/@38.6215335,-90.283333,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b56d573ff16d:0x37a3b6b9a4f20e75!8m2!3d38.6215293!4d-90.2811443!16s%2Fg%2F11bz0shg_6), The Hill
 * [Perennial](https://www.google.com/maps/place/Perennial+Artisan+Ales/@38.5431628,-90.2818381,14.75z/data=!4m6!3m5!1s0x87d8b65e6625ed7f:0x4068a5d42908984f!8m2!3d38.5454657!4d-90.2660243!16s%2Fg%2F1tf6mrg4), Patch
 * [Urban Chestnut Brewing Company](https://www.google.com/maps/place/Urban+Chestnut+Midtown+Brewery+and+Biergarten/@38.5432957,-90.3414665,12z/data=!4m10!1m2!2m1!1sucbc!3m6!1s0x87d8b4a739102cb7:0x7cd8ad2a7a5746e2!8m2!3d38.6379112!4d-90.2258098!15sCgR1Y2JjWgYiBHVjYmOSAQdicmV3ZXJ5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5sTlZsZlZGRm5FQUXgAQA!16s%2Fg%2F1tghq3mt), Midtown & The Grove
