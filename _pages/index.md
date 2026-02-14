@@ -21,7 +21,7 @@ layout: page
 <strong>Curriculum Vitae</strong> { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
 e-mail { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
 Research interests { Monetary Economics | Financial Economics }  
-Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }
+Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }
 
 ---
 
@@ -42,7 +42,7 @@ Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
 6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_R2.pdf), August 2025
-    - <span style="color: blue;"><strong><em>R&amp;R at the JPE: Macro</em></strong></span>
+    - <strong><em>R&amp;R at the JPE: Macro</em></strong>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
@@ -58,65 +58,65 @@ Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=
 
 {:start="10"}
 10. [Dissecting the Great Retirement Boom](https:/mfariacastro.github.io/files/BFS_November2025.pdf)
-    - **Journal of Monetary Economics**, accepted
+    - <strong><em>Journal of Monetary Economics</em></strong>, Vol. 157, 2026
     - with Serdar Birinci and Kurt See
 
 11. [The Nonlinear Effects of Fiscal Policy](https://mfariacastro.github.io/files/NonlinearEffectsFiscalPolicy_Oct2025.pdf)
-    - **Journal of Public Economics**, accepted
+    - <strong><em>Journal of Public Economics</em></strong>, Vol. 252, 2025
     - with Pedro Brinca, Miguel H. Ferreira, Hans Holter and Valter Nobrega
 
 12. [A Quantitative Analysis of Bank Lending Relationships](https:/mfariacastro.github.io/files/DFC_2025.pdf)
-    - **Journal of Financial Economics**, 2025
+    - <strong><em>Journal of Financial Economics</em></strong>, Vol. 170, 2025
     - with Kyle Dempsey
 
 13. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)
-    - **Review, Federal Reserve Bank of St. Louis**, 2024
+    - <strong><em>Review, Federal Reserve Bank of St. Louis</em></strong>, Vol.106, 2024
     - with Fernando Leibovici
 
 14. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)
-    - **Review of Economics and Statistics**, 2024
+    - <strong><em>Review of Economics and Statistics</em></strong>, Vol. 106, 2024
     - Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 15. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)
-    - **Journal of Financial Economics**, 2024 (Lead Article/Editor's Choice)
+    - <strong><em>Journal of Financial Economics</em></strong>, Vol.153, 2024 (Lead Article/Editor's Choice)
     - with Pascal Paul and Juan M. Sanchez, *press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
 
 16. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)
-    - **Review, Federal Reserve Bank of St. Louis**, 2024
+    - <strong><em>Review, Federal Reserve Bank of St. Louis</em></strong>, First Quarter, 2024
     - with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
 
 17. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)
-    - **European Economic Review**, 2021
+    - <strong><em>European Economic Review</em></strong>, Vol. 139, 2021
     - with Pedro Brinca and Joao B. Duarte, code and data [here](https://github.com/jbduarte/labor_supply_demand_covid19)
 
 18. [Fiscal Policy during a Pandemic](https://mfariacastro.github.io/files/Covid_February2021.pdf)
-    - **Journal of Economic Dynamics & Control**, 2021
+    - <strong><em>Journal of Economic Dynamics & Control</em></strong>, Vol. 125, 2021
     - *mentions: [Brookings Hutchins Roundup](https://www.brookings.edu/blog/up-front/2020/03/26/hutchins-roundup-unemployment-insurance-information-channels-and-more/), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/03/tuesday-assorted-links-256.html)*
 
 19. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)
-    - **Journal of Monetary Economics**, 2020
+    - <strong><em>Journal of Monetary Economics</em></strong>, Vol. 112, 2020
     - with Matteo Crosignani and Luis Fonseca, *mentions: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)*
 
 20. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)
-    - **Review of Economic Studies**, 2017
+    - <strong><em>Review of Economic Studies</em></strong>, Vol. 84, 2017
     - with Joseba Martinez and Thomas Philippon
 
 21. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)
-    - **Banco de Portugal Economic Studies**, 2015
+    - <strong><em>Banco de Portugal Economic Studies</em></strong>, 2015
     - with Matteo Crosignani and Luis Fonseca, *mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
 
 22. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)
-    - **Studies in Economics and Finance**, 2011
+    - <strong><em>Studies in Economics and Finance</em></strong>, Vol. 28, 2011
     - with Joao Zambujal-Oliveira
 
 ## Book Chapters and Other Publications
 
 {:start="23"}
-23. The Krugman-Macedo Diagram Revisited
-    - **Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo**, 2021
+23. [The Krugman-Macedo Diagram Revisited](https://fariaecastro.net/files/KM_revisited.pdf)
+    - <strong><em>Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo</em></strong>, 2021
     - with Miguel Lebre de Freitas
 
 24. [Introduction for the special issue on the Gerzensee Conference](https://www.sciencedirect.com/science/article/pii/S0165188920300397)
-    - **Journal of Economic Dynamics & Control**, 2020
+    - <strong><em>Journal of Economic Dynamics & Control</em></strong>, 2020
     - special issue jointly edited with Bill Dupor
 
