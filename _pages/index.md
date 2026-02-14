@@ -23,13 +23,12 @@ layout: page
   </div>
 </div>
 
-I am a Research Economist and Senior Economic Policy Advisor at the [Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/), and a Lecturer in the Department of Economics at [Washington University in St. Louis](https://economics.wustl.edu/).
+Ph.D. in Economics, New York University
 
-My research focuses on **macroeconomics** and **financial economics**.
-
-I received my Ph.D. in Economics from [New York University](http://as.nyu.edu/econ.html) in 2017.
-
-**Contact:** &nbsp; miguel.fariaecastro [at] stls.frb.org
+CV { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
+e-mail { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
+Research interests { Monetary Economics | Financial Economics }  
+Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }
 
 ---
 
