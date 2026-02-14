@@ -1,22 +1,13 @@
-# main links
 main:
-   - title: "Home and CV"
-     url: /
-   - title: "Research"
-     url: /research/
-   - title: "Teaching"
-     url: /teaching/
-   - title: "Policy"
-     url: /policy/
-   - title: "Opinion"
-     url: /oped/
-   - title: "STL Food Guide"
-     url: /stlfood/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home and CV"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Policy"
+    url: /policy/
+  - title: "Opinion"
+    url: /oped/
+  - title: "STL Food Guide"
+    url: /stlfood/
