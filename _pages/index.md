@@ -47,7 +47,7 @@ Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
 7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020
-    - *Press: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*
+    - *mentions: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*
 
 8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
     - with Joseba Martinez and Thomas Philippon
@@ -70,7 +70,7 @@ Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M
     - with Kyle Dempsey
 
 13. [Artificial Intelligence and Inflation Forecasts](https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-015.pdf)
-    - <strong><em>Review, Federal Reserve Bank of St. Louis</em></strong>, Vol.106, 2024
+    - <strong><em>Review, Federal Reserve Bank of St. Louis</em></strong>, Vol. 106, 2024
     - with Fernando Leibovici
 
 14. [Fiscal Multipliers and Financial Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2018/2018-023.pdf)
@@ -78,12 +78,14 @@ Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M
     - Code and data [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCTVTA)
 
 15. [Evergreening](https://mfariacastro.github.io/files/FPS_Aug2023.pdf)
-    - <strong><em>Journal of Financial Economics</em></strong>, Vol.153, 2024 (Lead Article/Editor's Choice)
-    - with Pascal Paul and Juan M. Sanchez, *press: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
+    - <strong><em>Journal of Financial Economics</em></strong>, Vol. 153, 2024 (Lead Article/Editor's Choice)
+    - with Pascal Paul and Juan M. Sanchez
+    - *mentions: [New York Times](https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html)*
 
 16. [Pandemic labor force participation and net worth fluctuations](https://files.stlouisfed.org/files/htdocs/publications/review/2024/01/05/pandemic-labor-force-participation-and-net-worth-fluctuations.pdf)
     - <strong><em>Review, Federal Reserve Bank of St. Louis</em></strong>, First Quarter, 2024
-    - with Samuel Jordan-Wood, *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
+    - with Samuel Jordan-Wood
+    - *mentions: [Hutchins Roundup, Brookings Institution](https://www.brookings.edu/2023/05/11/hutchins-roundup-net-worth-and-retirement-inflation-dynamics-and-more/), [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-21/pandemic-retirees-head-back-to-work-in-us-as-asset-boom-fades), [Yahoo Finance](https://finance.yahoo.com/news/pandemic-retirees-us-head-back-184232104.html)*
 
 17. [Measuring Labor Supply and Demand Shocks during COVID-19](https://mfariacastro.github.io/files/BDF2020_v8.pdf)
     - <strong><em>European Economic Review</em></strong>, Vol. 139, 2021
@@ -95,7 +97,8 @@ Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M
 
 19. [The (Unintended?) Consequences of the Largest Liquidity Injection Ever](https://s3.amazonaws.com/real.stlouisfed.org/wp/2017/2017-039.pdf)
     - <strong><em>Journal of Monetary Economics</em></strong>, Vol. 112, 2020
-    - with Matteo Crosignani and Luis Fonseca, *mentions: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)*
+    - with Matteo Crosignani and Luis Fonseca
+    - *mentions: [Wall Street Journal](https://www.wsj.com/articles/fed-paper-looks-at-unintended-consequences-of-largest-liquidity-injection-ever-1486748614), [Frankfurter Allgemeine](http://blogs.faz.net/fazit/2016/01/06/was-kann-die-ezb-7140/)*
 
 20. [Runs versus Lemons: Information Disclosure and Fiscal Capacity](https://mfariacastro.github.io/files/runs_versus_lemons.pdf)
     - <strong><em>Review of Economic Studies</em></strong>, Vol. 84, 2017
@@ -103,7 +106,8 @@ Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M
 
 21. [The Portuguese banking system during the sovereign debt crisis](https://mfariacastro.github.io/files/CCF2015.pdf)
     - <strong><em>Banco de Portugal Economic Studies</em></strong>, 2015
-    - with Matteo Crosignani and Luis Fonseca, *mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
+    - with Matteo Crosignani and Luis Fonseca
+    - *mentioned in a [speech](https://www.bundesbank.de/Redaktion/EN/Reden/2015/2015_12_10_weidmann.html) by the President of the Deutsche Bundesbank*
 
 22. [Mapping a country's competitive position: a real exchange rate approach](http://www.emeraldinsight.com/doi/abs/10.1108/10867371111141981)
     - <strong><em>Studies in Economics and Finance</em></strong>, Vol. 28, 2011
