@@ -106,6 +106,31 @@ hr {
 
 .profile-links a { white-space: nowrap; }
 
+/* Homepage meta list */
+.profile-meta {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1.2rem;
+  border-top: 1px solid #eee;
+  padding-top: 0.9rem;
+}
+
+.profile-meta li {
+  margin: 0.35rem 0;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.profile-meta li:last-child {
+  border-bottom: none;
+}
+
+/* Optional: keep the label visually consistent */
+.profile-meta strong {
+  display: inline-block;
+  min-width: 165px; /* tweak to taste */
+}
+
 /* Typography */
 h1 {
   font-size: 1.5rem;
