@@ -13,13 +13,11 @@ layout: page
       Research Economist and Senior Economic Policy Advisor<br/>
       <a href="https://www.stlouisfed.org/research/economists/faria-e-castro">Federal Reserve Bank of St. Louis</a><br/><br/>
       Lecturer, Department of Economics<br/>
-      <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a>
+      <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a><br/><br/>
+      Ph.D. in Economics, <a href="https://as.nyu.edu/departments/econ.html">New York University</a><br/>
     </div>
   </div>
 </div>
-
-Ph.D. in Economics, New York University
-
 <strong>Curriculum Vitae</strong> { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
 e-mail { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
 Research interests { Monetary Economics | Financial Economics }  
@@ -29,7 +27,7 @@ Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=
 
 ## Working Papers
 
-1. [Expectations on Wealth Returns: Implications for Labor Supply During the Retirement Boom](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
+1. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
     - with Serdar Birinci and Kurt See
 
 2. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
@@ -44,7 +42,7 @@ Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
 6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_R2.pdf), August 2025
-    - **R&R at the JPE: Macro**
+    - <span style="color: blue;"><strong><em>R&amp;R at the JPE: Macro</em></strong></span>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
