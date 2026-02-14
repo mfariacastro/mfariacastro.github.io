@@ -1,8 +1,44 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+/* homepage block */
 
-@charset "utf-8";
+.prb-top{
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+.prb-photo img{
+  width: 170px;
+  height: auto;
+  border-radius: 2px;
+}
+
+.prb-name{
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: .3rem;
+}
+
+.prb-lines{
+  margin-bottom: .7rem;
+}
+
+.prb-links{
+  margin-bottom: .9rem;
+}
+
+.prb-contact-title{
+  font-weight: 600;
+  margin-bottom: .2rem;
+}
+
+.prb-hr{
+  margin: 1.2rem 0;
+}
+
+/* Make headings look like simple section titles */
+.page__content h2{
+  font-size: 1.25rem;
+  letter-spacing: .02em;
+  margin-top: 0;
+}
