@@ -15,17 +15,12 @@ layout: page
       Lecturer, Department of Economics<br/>
       <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a>
     </div>
-    <div class="profile-links">
-      <a href="/files/CV_FariaeCastro_WIP.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;&middot;&nbsp;
-      <a href="https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en">Google Scholar</a> &nbsp;&middot;&nbsp;
-      <a href="https://ideas.repec.org/f/pfa225.html">RePEc</a>
-    </div>
   </div>
 </div>
 
 Ph.D. in Economics, New York University
 
-CV { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
+<strong>Curriculum Vitae</strong> { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
 e-mail { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
 Research interests { Monetary Economics | Financial Economics }  
 Research profiles { [Google Scholar]([https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }
