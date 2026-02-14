@@ -15,7 +15,7 @@ I am teaching **Intermediate Macroeconomic Theory (Econ 4002)** at Washington Un
 
 ## Past Teaching
 
-### As Instructor of Record
+### As Main Instructor
 
 I have taught **Intermediate Macroeconomic Theory (Econ 4002; formerly Econ 4021)** at Washington University in St. Louis in:
 
