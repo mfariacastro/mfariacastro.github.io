@@ -21,7 +21,7 @@ layout: page
 <strong>Curriculum Vitae</strong> { [pdf](/files/CV_FariaeCastro_WIP.pdf) }  
 e-mail { [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org) }  
 Research interests { Monetary Economics | Financial Economics }  
-Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }
+Research profiles { [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) | [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) | [ORCID](https://orcid.org/0000-0002-3759-2172) }<br/>
 Teaching { [Econ 4002 at WashU](https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf) }
 
 ---
