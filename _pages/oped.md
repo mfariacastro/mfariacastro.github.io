@@ -1,8 +1,8 @@
 ---
 permalink: /oped/
 title: "Opinion"
-author_profile: #false
-layout: splash
+author_profile: false
+layout: single
 #sidebar:
 #  nav: "docs"
 ---
