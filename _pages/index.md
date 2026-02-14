@@ -18,13 +18,19 @@ layout: page
     </div>
   </div>
 </div>
-**Curriculum Vitae**: [pdf](/files/CV_FariaeCastro_WIP.pdf)<br/>
-**Contact**: [miguel.fariaecastro@stls.frb.org](mailto:miguel.fariaecastro@stls.frb.org)<br/>
-**Research interests**: Monetary Economics · Financial Economics<br/>
-**Research profiles**: [Google Scholar](https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en) · [IDEAS/RePEc](https://ideas.repec.org/f/pfa225.html) · [ORCID](https://orcid.org/0000-0002-3759-2172)<br/>
-**Current teaching**: [Intermediate Macroeconomic Theory (Econ 4002, WashU)](https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf), Spring 2026<br/>
-**Calls for papers**: [19th PEJ annual meeting](https://www.ua.pt/pt/pej2026/) · 2nd St. Louis Macrofinance Workshop (coming soon)
 
+<ul class="profile-meta">
+  <li><strong>Curriculum Vitae</strong>: <a href="/files/CV_FariaeCastro_WIP.pdf">pdf</a></li>
+  <li><strong>Contact</strong>: <a href="mailto:miguel.fariaecastro@stls.frb.org">miguel.fariaecastro@stls.frb.org</a></li>
+  <li><strong>Research interests</strong>: Monetary Economics · Financial Economics</li>
+  <li><strong>Research profiles</strong>: 
+    <a href="https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en">Google Scholar</a> ·
+    <a href="https://ideas.repec.org/f/pfa225.html">IDEAS/RePEc</a> ·
+    <a href="https://orcid.org/0000-0002-3759-2172">ORCID</a>
+  </li>
+  <li><strong>Current teaching</strong>: <a href="https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf">Intermediate Macroeconomic Theory (Econ 4002, WashU)</a>, Spring 2026</li>
+  <li><strong>Calls for papers</strong>: <a href="https://www.ua.pt/pt/pej2026/">19th PEJ annual meeting</a> · 2nd St. Louis Macrofinance Workshop (coming soon)</li>
+</ul>
 ---
 
 ## Working Papers
