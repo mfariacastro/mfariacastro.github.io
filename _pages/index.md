@@ -12,15 +12,14 @@ layout: page
     <div class="profile-name">Miguel Faria-e-Castro</div>
     <div class="profile-affiliation">
       Research Economist and Senior Economic Policy Advisor<br/>
-      <a href="https://research.stlouisfed.org/">Federal Reserve Bank of St. Louis</a><br/><br/>
+      <a href="https://www.stlouisfed.org/research/economists/faria-e-castro">Federal Reserve Bank of St. Louis</a><br/><br/>
       Lecturer, Department of Economics<br/>
-      <a href="https://economics.wustl.edu/">Washington University in St. Louis</a>
+      <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a>
     </div>
     <div class="profile-links">
-      <a href="/assets/CV_FariaeCastro_WIP.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;&middot;&nbsp;
+      <a href="/files/CV_FariaeCastro_WIP.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;&middot;&nbsp;
       <a href="https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en">Google Scholar</a> &nbsp;&middot;&nbsp;
-      <a href="https://ideas.repec.org/f/pfa225.html">RePEc</a> &nbsp;&middot;&nbsp;
-      <a href="https://research.stlouisfed.org/econ/faria-e-castro">St. Louis Fed</a>
+      <a href="https://ideas.repec.org/f/pfa225.html">RePEc</a>
     </div>
   </div>
 </div>
