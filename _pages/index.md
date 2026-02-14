@@ -1,23 +1,22 @@
 ---
 permalink: /
 title: "Miguel Faria-e-Castro"
-author_profile: false
-layout: splash
+layout: page
 ---
 
-<div class="prb-top">
-  <div class="prb-photo">
+<div class="profile-box">
+  <div class="profile-photo">
     <img src="/assets/photo_cc.jpg" alt="Miguel Faria-e-Castro">
   </div>
-  <div class="prb-info">
-    <div class="prb-name">Miguel Faria-e-Castro</div>
-    <div class="prb-lines">
+  <div class="profile-info">
+    <div class="profile-name">Miguel Faria-e-Castro</div>
+    <div class="profile-affiliation">
       Research Economist and Senior Economic Policy Advisor<br/>
       <a href="https://research.stlouisfed.org/">Federal Reserve Bank of St. Louis</a><br/><br/>
       Lecturer, Department of Economics<br/>
       <a href="https://economics.wustl.edu/">Washington University in St. Louis</a>
     </div>
-    <div class="prb-links">
+    <div class="profile-links">
       <a href="/assets/CV_FariaeCastro_WIP.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;&middot;&nbsp;
       <a href="https://scholar.google.com/citations?user=M0--M28AAAAJ&hl=en">Google Scholar</a> &nbsp;&middot;&nbsp;
       <a href="https://ideas.repec.org/f/pfa225.html">RePEc</a> &nbsp;&middot;&nbsp;
@@ -131,6 +130,3 @@ I received my Ph.D. in Economics from [New York University](http://as.nyu.edu/ec
     - **Journal of Economic Dynamics & Control**, 2020
     - special issue jointly edited with Bill Dupor
 
----
-
-*The views expressed on this site do not necessarily reflect the positions of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*

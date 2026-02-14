@@ -1,8 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-author_profile: false
-layout: splash
+layout: page
 ---
 
 # Teaching

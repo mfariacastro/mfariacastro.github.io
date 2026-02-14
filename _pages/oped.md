@@ -1,8 +1,7 @@
 ---
 permalink: /oped/
 title: "Opinion"
-author_profile: false
-layout: splash
+layout: page
 ---
 
 # Public Interventions & Other Media Mentions (Selected)
@@ -85,7 +84,3 @@ layout: splash
 76. [Como a guerra das tarifas nos podera afectar? Radio Observador](https://observador.pt/programas/a-hist-ria-do-dia/como-a-guerra-das-tarifas-nos-podera-afetar/), February 2025 (PT)
 77. [Comentario ao impacto das tarifas nos mercados bolsistas, Antena 1](https://www.rtp.pt/play/p1467/e841824/programa-da-tarde), April 2025 (PT)
 78. Interview with RTP3, April 2025 (PT)
-
----
-
-*The views expressed on these articles are my own and not those of the Federal Reserve Bank of St. Louis or the Federal Reserve System.*

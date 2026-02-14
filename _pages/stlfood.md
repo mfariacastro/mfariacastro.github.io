@@ -1,8 +1,7 @@
 ---
 permalink: /stlfood/
 title: "STL Food Guide"
-author_profile: false
-layout: splash
+layout: page
 ---
 
 # St. Louis Food & Drink Guide

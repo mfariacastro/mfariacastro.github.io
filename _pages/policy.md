@@ -1,8 +1,7 @@
 ---
 permalink: /policy/
 title: "Policy"
-author_profile: false
-layout: splash
+layout: page
 ---
 
 # Policy Writings and Publications
