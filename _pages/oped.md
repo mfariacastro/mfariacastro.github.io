@@ -6,6 +6,8 @@ layout: page
 
 # Public Interventions & Other Media Mentions (Selected)
 
+I mainly share my personal views on [Twitter](https://x.com/mfariacastro), especially outside of media blackout periods.
+
 1. Interview with RTP3, April 2025 (PT)
 2. [Comentario ao impacto das tarifas nos mercados bolsistas, Antena 1](https://www.rtp.pt/play/p1467/e841824/programa-da-tarde), April 2025 (PT)
 3. [Como a guerra das tarifas nos podera afectar? Radio Observador](https://observador.pt/programas/a-hist-ria-do-dia/como-a-guerra-das-tarifas-nos-podera-afetar/), February 2025 (PT)
