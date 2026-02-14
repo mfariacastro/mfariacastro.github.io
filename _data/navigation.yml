@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Teaching"
-    url: /teaching/
   - title: "Policy"
     url: /policy/
   - title: "Opinion"
