@@ -9,7 +9,6 @@ layout: page
     <img src="/assets/photo_cc.jpg" alt="Miguel Faria-e-Castro">
   </div>
   <div class="profile-info">
-    <div class="profile-name">Miguel Faria-e-Castro</div>
     <div class="profile-affiliation">
       Research Economist and Senior Economic Policy Advisor<br/>
       <a href="https://www.stlouisfed.org/research/economists/faria-e-castro">Federal Reserve Bank of St. Louis</a><br/><br/>
