@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-/* Optional: force darker text */
+/* Color scheme */
 $text-color: #111;
 $muted-text-color: #222;
 $link-color: #1a0dab;
@@ -12,46 +12,95 @@ $link-color: #1a0dab;
 /* Load Minimal Mistakes */
 @import "minimal-mistakes";
 
-/* Your custom Pau-style tweaks */
+/* Base text color */
 body { color: #111; }
 .page__content, .page__content p, .page__content li { color: #111; }
 
-.prb-top{
+/* Profile box at top of homepage */
+.prb-top {
   display: flex;
-  gap: 1.5rem;
+  gap: 1.8rem;
   align-items: flex-start;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.prb-photo img {
+  width: 200px;
+  height: auto;
+  border-radius: 3px;
+}
+
+.prb-name {
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.prb-lines {
+  margin-bottom: 0.7rem;
+  line-height: 1.5;
+}
+
+.prb-links {
+  margin-bottom: 0.5rem;
+}
+
+.prb-links a {
+  white-space: nowrap;
+}
+
+/* Section headers */
+.page__content h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-top: 1.5rem;
+  border-bottom: none;
+}
+
+.page__content h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
   margin-top: 0.5rem;
 }
 
-.prb-photo img{
-  width: 190px;
-  height: auto;
-  border-radius: 2px;
+/* Paper list styling */
+.page__content ol {
+  margin-left: 0;
+  padding-left: 1.5rem;
 }
 
-.prb-name{
-  font-size: 1.9rem;
-  font-weight: 600;
-  margin-bottom: .3rem;
+.page__content ol li {
+  margin-bottom: 0.8rem;
 }
 
-.prb-lines{ margin-bottom: .7rem; }
-.prb-links{ margin-bottom: .9rem; }
-
-.prb-contact-title{
-  font-weight: 600;
-  margin-bottom: .2rem;
+.page__content ol li ul {
+  margin-top: 0.15rem;
+  margin-bottom: 0;
+  list-style: none;
+  padding-left: 0.2rem;
 }
 
-.prb-hr{ margin: 1.2rem 0; }
-
-/* Pau-like section headers */
-.page__content h2{
-  font-size: 1.15rem;
-  font-weight: 700;
-  letter-spacing: .02em;
-  margin-top: 0;
+.page__content ol li ul li {
+  margin-bottom: 0.1rem;
+  font-size: 0.92em;
 }
 
-/* Reduce theme chrome spacing */
-.masthead { border-bottom: 0; }
+/* Reduce theme chrome */
+.masthead {
+  border-bottom: 0;
+}
+
+/* Responsive: stack photo and info on small screens */
+@media (max-width: 600px) {
+  .prb-top {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .prb-photo img {
+    width: 160px;
+  }
+}

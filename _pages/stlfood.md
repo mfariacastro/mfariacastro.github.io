@@ -1,11 +1,10 @@
 ---
 permalink: /stlfood/
-title: "St. Louis Eat/Drinks"
-author_profile: #false
+title: "STL Food Guide"
+author_profile: false
 layout: splash
-#sidebar:
-#  nav: "docs"
 ---
+
 # St. Louis Food & Drink Guide
 
 St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a city of its size. I often get asked for recommendations by visitors (and even some locals), and thought it would be easier to compile a static list with links to different establishments. This list does not follow any particular order.
@@ -41,6 +40,7 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [Wright's Tavern](https://www.google.com/maps/place/Wright's+Tavern/@38.6427791,-90.3344146,15z/data=!4m2!3m1!1s0x0:0x360c5f80a3d3d804?sa=X&ved=2ahUKEwiZyJG6_uWDAxUKmmoFHcflC70Q_BJ6BAgQEAA), Steakhouse, Clayton
 
 ## Casual
+
 * [Lona's Lil Eats](https://www.google.com/maps/place/Lona's+Lil+Eats/@38.6102158,-90.2312611,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b47fccee2a1d:0xa12a5a4a22fc4d33!8m2!3d38.6102117!4d-90.2267764!16s%2Fg%2F11bbt5lxgg), Chinese Fusion, Fox Park
 * [Blues City Deli](https://www.google.com/maps/place/Blues+City+Deli/@38.605055,-90.2203622,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b384724ef015:0x5ad41b58221ee545!8m2!3d38.6050508!4d-90.2181735!16s%2Fg%2F11b77p9tb3), Sandwiches, Benton Park
 * [The Vine](https://www.google.com/maps/place/The+Vine+Cafe+and+Market/@38.6003592,-90.2451407,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b467fda53119:0xaaea96ff7e0297cb!8m2!3d38.600355!4d-90.242952!16s%2Fg%2F1tff3ky0), Lebanese, Tower Grove South
@@ -61,12 +61,15 @@ St. Louis has a surprisingly diverse and dynamic restaurant and bar scenes for a
 * [The Mud House](https://www.themudhousestl.com/), Brunch, Cherokee
 
 ## BBQ
+
 There is a lot of great BBQ in St. Louis. If you are only in town for a few days I typically recommend the following three. Bogart's and Pappy's have the best ribs in the city. The Shaved Duck is a full-service restaurant where you can eat while sitting down and having a drink.
+
 * [Bogart's Smokehouse](https://www.google.com/maps/place/Bogart's+Smokehouse/@38.6108859,-90.2048913,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b3a09d626a37:0x845a464b4ed5fadf!8m2!3d38.6108817!4d-90.2027026!16s%2Fg%2F1hcb3vc7c), Soulard
 * [Pappy's Smokehouse](https://www.google.com/maps/place/Pappy's+Smokehouse/@38.6350296,-90.2261752,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b4a09930e6ab:0xe06663d762f1a9ce!8m2!3d38.6350254!4d-90.2239865!16s%2Fg%2F1tgdtp89), Midtown
 * [The Shaved Duck Smokehouse](https://www.google.com/maps/place/The+Shaved+Duck+Smokehouse/@38.6036341,-90.2403547,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b464f0b1371f:0xd9f5964f3bb68058!8m2!3d38.60363!4d-90.23587!16s%2Fg%2F1td38skw), Tower Grove East
 
 ## Drink
+
 * [Planter's House](https://www.google.com/maps/place/Planter's+House/@38.6206996,-90.214236,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b371dab602bd:0x3b67838c087aae79!8m2!3d38.6206954!4d-90.2120473!16s%2Fg%2F11b6hp4pz_), Cocktail Bar, Lafayette Square
 * [McGurk's](https://www.google.com/maps/place/John+D.+McGurk's+Irish+Pub+and+Garden/@38.6025544,-90.2242433,15.25z/data=!4m14!1m7!3m6!1s0x87d8b3889d486e5d:0x571e03f6189f0cea!2sYemanja+Brasil+Restaurant!8m2!3d38.6001944!4d-90.2214762!16s%2Fg%2F1tl8l7lv!3m5!1s0x87d8b39e9cb54451:0x24e1fc7963703e42!8m2!3d38.6076244!4d-90.2099682!16s%2Fm%2F0krllm9), Irish Bar, Soulard
 * [Hammerstone's](https://www.google.com/maps/place/Hammerstone's/@38.6025544,-90.2242433,15.25z/data=!4m14!1m7!3m6!1s0x87d8b3889d486e5d:0x571e03f6189f0cea!2sYemanja+Brasil+Restaurant!8m2!3d38.6001944!4d-90.2214762!16s%2Fg%2F1tl8l7lv!3m5!1s0x87d8b3a1e68eb5e3:0x544ee445bcc5d1b4!8m2!3d38.6066605!4d-90.2051703!16s%2Fm%2F0k3f1ps), Blues Bar, Soulard
@@ -78,7 +81,9 @@ There is a lot of great BBQ in St. Louis. If you are only in town for a few days
 * ['ssipi](https://www.google.com/maps/place/''ssippi'/@38.5941801,-90.2361448,17.25z/data=!4m14!1m7!3m6!1s0x87d8b5f980d65aab:0x9d9d5b5f0c9dac1f!2sYellowbelly!8m2!3d38.6435461!4d-90.2615443!16s%2Fg%2F11gmcfq3tq!3m5!1s0x87d8b5828cef57d5:0x1ee77a5377b91cb3!8m2!3d38.5941128!4d-90.2333005!16s%2Fg%2F11rtzv8b22), Natural Wines, Cherokee
 
 ## Breweries
+
 Most of these breweries also offer great food.
+
 * [4hands Brewing Co](https://www.google.com/maps/place/4+Hands+Brewing+Co/@38.6149656,-90.1997226,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b308c68c4673:0x17df1b5f07a3beaf!8m2!3d38.6149614!4d-90.1975339!16s%2Fg%2F1w96h8g1), Downtown
 * [Rockwell Beer Company](https://www.google.com/maps/place/Rockwell+Beer+Company/@38.6150316,-90.2325533,13z/data=!4m10!1m2!2m1!1srockwell+beer!3m6!1s0x87d8b4ef408fffff:0x6d7face385da9e49!8m2!3d38.6256086!4d-90.2512742!15sCg1yb2Nrd2VsbCBiZWVyIgOIAQFaDyINcm9ja3dlbGwgYmVlcpIBB2JyZXdlcnngAQA!16s%2Fg%2F11f5h3swqv), The Grove
 * [Alpha Brewing Company](ha+Brewing+Company/@38.5985478,-90.267226,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b33d94ca1249:0xc9deb3c966700820!8m2!3d38.5985437!4d-90.2627413!16s%2Fg%2F1hhvx1208), Tower Grove South
@@ -86,4 +91,3 @@ Most of these breweries also offer great food.
 * [Perennial](https://www.google.com/maps/place/Perennial+Artisan+Ales/@38.5431628,-90.2818381,14.75z/data=!4m6!3m5!1s0x87d8b65e6625ed7f:0x4068a5d42908984f!8m2!3d38.5454657!4d-90.2660243!16s%2Fg%2F1tf6mrg4), Patch
 * [Urban Chestnut Brewing Company](https://www.google.com/maps/place/Urban+Chestnut+Midtown+Brewery+and+Biergarten/@38.5432957,-90.3414665,12z/data=!4m10!1m2!2m1!1sucbc!3m6!1s0x87d8b4a739102cb7:0x7cd8ad2a7a5746e2!8m2!3d38.6379112!4d-90.2258098!15sCgR1Y2JjWgYiBHVjYmOSAQdicmV3ZXJ5mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5sTlZsZlZGRm5FQUXgAQA!16s%2Fg%2F1tghq3mt), Midtown & The Grove
 * [The Side Project Cellar](https://www.google.com/maps/place/The+Side+Project+Cellar/@38.6120115,-90.3212414,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8caf514a04d5f:0xbdfb340de31eb885!8m2!3d38.612008!4d-90.3194009!16s%2Fg%2F11b6hmkts6), Maplewood
-
