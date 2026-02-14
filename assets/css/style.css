@@ -82,6 +82,7 @@ hr {
   gap: 1.8rem;
   align-items: flex-start;
   margin-bottom: 1.5rem;
+  text-align: left;
 }
 
 .profile-photo img {
