@@ -49,7 +49,7 @@ layout: page
 5. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
-6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_R2.pdf), August 2025
+6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
     - <strong><em>R&amp;R at the JPE: Macro</em></strong>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
