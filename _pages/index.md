@@ -38,36 +38,36 @@ layout: page
 1. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_March2026.pdf), March 2026
    - with Pascal Paul and Juan M. Sánchez
 
-1. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
+2. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
     - with Serdar Birinci and Kurt See
 
-2. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
+3. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
     - with Julian Kozlowski and Jeremy Majerovitz
 
-3. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_November2025.pdf), November 2025
+4. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_November2025.pdf), November 2025
     - with Sam Jordan-Wood and Julian Kozlowski
 
-4. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), September 2025
+5. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), September 2025
 
-5. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
+6. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
-6. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
+7. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
     - <strong><em>R&amp;R at the JPE: Macro</em></strong>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
-7. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020
+8. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020
     - *mentions: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*
 
-8. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
+9. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
     - with Joseba Martinez and Thomas Philippon
 
-9. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015
+10. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015
 
 ## Published & Accepted Articles
 
-{:start="10"}
+{:start="11"}
 10. [Dissecting the Great Retirement Boom](https:/mfariacastro.github.io/files/BFS_November2025.pdf)
     - <strong><em>Journal of Monetary Economics</em></strong>, Vol. 157, 2026
     - with Serdar Birinci and Kurt See
@@ -126,7 +126,7 @@ layout: page
 
 ## Book Chapters and Other Publications
 
-{:start="23"}
+{:start="24"}
 23. [The Krugman-Macedo Diagram Revisited](https://fariaecastro.net/files/KM_revisited.pdf)
     - <strong><em>Economic Globalization & Governance: Essays in Honor of Jorge Braga de Macedo</em></strong>, 2021
     - with Miguel Lebre de Freitas
