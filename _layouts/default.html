@@ -6,6 +6,15 @@
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="/assets/css/style.css">
+    {% if jekyll.environment == "production" %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9E72GR85H0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-9E72GR85H0');
+  </script>
+  {% endif %}
 </head>
 <body>
   <header class="site-header">
