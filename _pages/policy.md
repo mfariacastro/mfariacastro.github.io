@@ -8,6 +8,8 @@ layout: page
 
 ## St. Louis Fed Blog Posts
 
+1. [Can AI Optimism Raise Inflation? What a Standard Macro Model Says](https://www.stlouisfed.org/on-the-economy/2026/mar/can-ai-optimism-raise-inflation-what-standard-macro-model-says), On the Economy Blog, March 2026 (w/ Serdar Ozkan)
+1. [Inflation and the Accuracy of Public Debt Forecasts](https://www.stlouisfed.org/on-the-economy/2026/feb/inflation-accuracy-public-debt-forecasts), On the Economy Blog, February 2026 (w/ Collin Eldridge)
 1. [What Are the Characteristics of Banks with Large Unrealized Losses?](https://www.stlouisfed.org/on-the-economy/2025/dec/what-are-characteristics-banks-large-unrealized-losses), On the Economy Blog, December 2025 (w/ Collin Eldridge)
 2. [U.S. Retirement Normalization following the COVID-19 Pandemic](https://www.stlouisfed.org/on-the-economy/2025/jul/us-retirement-normalization-covid19-pandemic), On the Economy Blog, July 2025 (w/ Serdar Birinci, Kurt See, and Gus Gerlach)
 3. [Measuring Uncertainty](https://fredblog.stlouisfed.org/2025/04/measuring-uncertainty/), FRED Blog, April 2025 (w/ Marie Hogan)
