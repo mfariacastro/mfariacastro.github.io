@@ -35,7 +35,7 @@ layout: page
 
 ## Working Papers
 
-1. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_March2026.pdf), March 2026
+1. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_April2026.pdf), April 2026
    - with Pascal Paul and Juan M. Sánchez
 
 2. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
