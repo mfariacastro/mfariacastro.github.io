@@ -38,7 +38,7 @@ layout: page
 1. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_April2026.pdf), April 2026
    - with Pascal Paul and Juan M. Sánchez
 
-2. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/bfs_wealthls_nov2025.pdf), November 2025
+2. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/BFS_April2026.pdf), April 2026
     - with Serdar Birinci and Kurt See
 
 3. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
