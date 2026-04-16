@@ -44,7 +44,7 @@ layout: page
 3. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
     - with Julian Kozlowski and Jeremy Majerovitz
 
-4. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_November2025.pdf), November 2025
+4. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
     - with Sam Jordan-Wood and Julian Kozlowski
 
 5. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), September 2025
