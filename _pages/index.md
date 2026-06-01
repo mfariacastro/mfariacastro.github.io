@@ -10,7 +10,7 @@ layout: page
   </div>
   <div class="profile-info">
     <div class="profile-affiliation">
-      Research Economist and Senior Economic Policy Advisor<br/>
+      Senior Economic Policy Advisor and Research Economist<br/>
       <a href="https://www.stlouisfed.org/research/economists/faria-e-castro">Federal Reserve Bank of St. Louis</a><br/><br/>
       Lecturer, Department of Economics<br/>
       <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a><br/><br/>
