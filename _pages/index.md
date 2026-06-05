@@ -53,7 +53,7 @@ layout: page
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
 7. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
-    - <strong><em>R&amp;R at the JPE: Macro</em></strong>
+    - <strong><em>Conditionally accepted at the Journal of Political Economy: Macroeconomics</em></strong>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
