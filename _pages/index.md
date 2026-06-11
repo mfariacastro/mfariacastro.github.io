@@ -47,7 +47,7 @@ layout: page
 4. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
     - with Sam Jordan-Wood and Julian Kozlowski
 
-5. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), September 2025
+5. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), June 2026
 
 6. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
