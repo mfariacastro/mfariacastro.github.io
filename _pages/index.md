@@ -28,8 +28,8 @@ layout: page
     <a href="https://ideas.repec.org/f/pfa225.html">IDEAS/RePEc</a> ·
     <a href="https://orcid.org/0000-0002-3759-2172">ORCID</a>
   </li>
-  <li><strong>Current teaching</strong>: <a href="https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf">Intermediate Macroeconomic Theory (Econ 4002, WashU)</a>, Spring 2026</li>
-  <li><strong>Calls for papers</strong>: <a href="https://www.ua.pt/pt/pej2026/">19th PEJ annual meeting</a> · 2nd St. Louis Macrofinance Workshop (coming soon)</li>
+  <li><strong>Current teaching</strong>: <a href="https://fariaecastro.net/teaching/Econ4002_Syllabus.pdf">Intermediate Macroeconomic Theory (Econ 4002, WashU)</a>, Fall 2026</li>
+  <!-- <li><strong>Calls for papers</strong>: <a href="https://www.ua.pt/pt/pej2026/">19th PEJ annual meeting</a> · 2nd St. Louis Macrofinance Workshop (coming soon)</li> -->
 </ul>
 ---
 
@@ -41,7 +41,7 @@ layout: page
 2. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/BFS_April2026.pdf), April 2026
     - with Serdar Birinci and Kurt See
 
-3. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Sep25.pdf), September 2025
+3. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Jul26.pdf), July 2026
     - with Julian Kozlowski and Jeremy Majerovitz
 
 4. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
