@@ -8,6 +8,9 @@ layout: page
 
 I mainly share my personal views on [Twitter](https://x.com/mfariacastro), especially outside of media blackout periods.
 
+1. [Custos da queda do investimento só se sentem no longo prazo, Publico](https://www.publico.pt/2026/07/19/economia/entrevista/custos-queda-investimento-so-sentem-longo-prazo-2182174), July 2026 (PT)
+2. [‘Inflationary surge’: Fed economists warn AI hype is overheating the economy whether
+or not the technology ever delivers, Fortune](https://finance.yahoo.com/economy/articles/inflationary-surge-fed-economists-warn-153541649.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAnXxJuPe31P7xmxg-IjEF4vJ0DGOzq61lZ00HD1rHX3LWZx7TvgQ1xLQ7qsddCT8oe40jeyySwnwpMAXkLA-SGyuAiFr1HlnBKtmRvTlV9gVyuDV6ONeRdNyiYaG6FJQVJd0LhmLx0q6IoC-NWLUTABEw5AFaKW0sb46wZBtDaN), April 2026
 1. Interview with RTP3, April 2025 (PT)
 2. [Comentario ao impacto das tarifas nos mercados bolsistas, Antena 1](https://www.rtp.pt/play/p1467/e841824/programa-da-tarde), April 2025 (PT)
 3. [Como a guerra das tarifas nos podera afectar? Radio Observador](https://observador.pt/programas/a-hist-ria-do-dia/como-a-guerra-das-tarifas-nos-podera-afetar/), February 2025 (PT)
