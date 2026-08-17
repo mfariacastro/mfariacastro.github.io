@@ -35,7 +35,7 @@ layout: page
 
 ## Working Papers
 
-1. [The Erosion of Public Capital in Portugal](https:/mfariacastro.github.io/files/PublicCapitalPT_Aug26_v2.pdf), August 2026
+1. [The Erosion of Public Capital in Portugal](https:/mfariacastro.github.io/files/PublicCapitalPT_Aug26_v3.pdf), August 2026
 
 2. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_July2026.pdf), July 2026
    - with Pascal Paul and Juan M. Sánchez
