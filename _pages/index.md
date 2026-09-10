@@ -14,6 +14,8 @@ layout: page
       <a href="https://www.stlouisfed.org/research/economists/faria-e-castro">Federal Reserve Bank of St. Louis</a><br/><br/>
       Lecturer, Department of Economics<br/>
       <a href="https://artsci.washu.edu/faculty-staff/miguel-faria-e-castro">Washington University in St. Louis</a><br/><br/>
+      Associate Editor<br/>
+      <a href="https://www.sciencedirect.com/journal/journal-of-banking-and-finance">Journal of Banking and Finance</a><br/><br/>
       Ph.D. in Economics, <a href="https://as.nyu.edu/departments/econ.html">New York University</a><br/>
     </div>
   </div>
