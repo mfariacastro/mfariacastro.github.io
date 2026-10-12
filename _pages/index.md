@@ -37,36 +37,38 @@ layout: page
 ## Working Papers
 
 1. [The Erosion of Public Capital in Portugal](https:/mfariacastro.github.io/files/PublicCapitalPT_Aug26_v3.pdf), August 2026
+   - *mentioned in the [2027 Portuguese Government Budget Report](https://www.oe.gov.pt/media/nqjhjumt/relatorio-oe27.pdf)*
 
-2. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_July2026.pdf), July 2026
+3. [Stabilization vs. Growth](https:/mfariacastro.github.io/files/FPS_July2026.pdf), July 2026
    - with Pascal Paul and Juan M. Sánchez
 
-3. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/BFS_April2026.pdf), April 2026
+4. [Expectations on Wealth Returns: Implications for Labor Supply](https:/mfariacastro.github.io/files/BFS_April2026.pdf), April 2026
     - with Serdar Birinci and Kurt See
 
-4. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Jul26.pdf), July 2026
+5. [The Cost of Capital and Misallocation in the United States](https:/mfariacastro.github.io/files/FKM_Jul26.pdf), July 2026
     - with Julian Kozlowski and Jeremy Majerovitz
+    - *cited in the [2026 CEA Economic Report of the President](https://www.whitehouse.gov/wp-content/uploads/2026/04/2026-Economic-Report-of-the-President.pdf)*
 
-5. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
+6. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
     - with Sam Jordan-Wood and Julian Kozlowski
 
-6. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), June 2026
+7. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), June 2026
 
-7. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
+8. [EBITDA Add-backs in Debt Contracting: A Step Too Far?](https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-029.pdf), September 2022
     - with Avantika Pal, Radhakrishnan Gopalan, Juan M. Sanchez and Vijay Yerramilli
 
-8. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
+9. [When Liquidity Matters: Firm Balance Sheets during Large Crises](https:/mfariacastro.github.io/files/EFK_JPEMacro_R3.pdf), March 2026
     - <strong><em>Conditionally accepted at the Journal of Political Economy: Macroeconomics</em></strong>
     - with Mahdi Ebsim and Julian Kozlowski
     - supersedes [Credit and Liquidity Policies during Large Crises](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-035.pdf)
 
-9. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020
+10. [A Quantitative Analysis of the Countercyclical Capital Buffer](https://mfariacastro.github.io/files/CCyB_January2020.pdf), January 2020
     - *mentions: [Central Banking](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/4339026/raising-ccybs-could-have-greatly-mitigated-2008-crisis-st-louis-fed-paper), [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/53971866)*
 
-10. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
+11. [A Note on Information Disclosure and Adverse Selection](https://mfariacastro.github.io/files/Note_Information_Disclosure.pdf), May 2015
     - with Joseba Martinez and Thomas Philippon
 
-11. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015
+12. [Risk Incentives in an Interbank Network](https://mfariacastro.github.io/files/interbank_networks.pdf), July 2015
 
 ## Published & Accepted Articles
 
