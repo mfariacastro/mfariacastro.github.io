@@ -8,9 +8,12 @@ layout: page
 
 I mainly share my personal views on [Twitter](https://x.com/mfariacastro), especially outside of media blackout periods.
 
+1. [Inflação será responsável por maior parte da redução da dívida pública este ano, prevê Governo, Expresso](https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-11-inflacao-sera-responsavel-por-maior-parte-da-reducao-da-divida-publica-este-ano-preve-governo-a73aca7e), October 2026 (PT)
+1. [“2025 e 2026 foram os dois primeiros anos desde 2011 em que o investimento público foi superior à depreciação do stock de capital”, Poligrafo](https://poligrafo.sapo.pt/fact-check/_miranda-sarmento-2025-e-2026-foram-os-dois-primeiros-anos-desde-2011-em-que-o-investimento-publico-foi-superior-a-depreciacao-do-stock-de-capital/), October 2026 (PT)
 1. [A erosão persistente do capital público em Portugal, ECO](https://eco.sapo.pt/especiais/a-erosao-persistente-do-capital-publico-em-portugal/), August 2026 (PT)
 2. [Custos da queda do investimento só se sentem no longo prazo, Publico](https://www.publico.pt/2026/07/19/economia/entrevista/custos-queda-investimento-so-sentem-longo-prazo-2182174), July 2026 (PT)
-3. [‘Inflationary surge’: Fed economists warn AI hype is overheating the economy whether
+3. [Interview with Expresso Economics podcast, Expresso](https://expresso.pt/podcasts/money-money-money/2026-04-17-miguel-faria-e-castro-mesmo-que-seja-um-choque-economico-bastante-grande-nao-acho-que-possamos-chegar-aos-niveis-dos-anos-70-02d0bf4b), April 2026 (PT)
+4. [‘Inflationary surge’: Fed economists warn AI hype is overheating the economy whether
 or not the technology ever delivers, Fortune](https://finance.yahoo.com/economy/articles/inflationary-surge-fed-economists-warn-153541649.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAnXxJuPe31P7xmxg-IjEF4vJ0DGOzq61lZ00HD1rHX3LWZx7TvgQ1xLQ7qsddCT8oe40jeyySwnwpMAXkLA-SGyuAiFr1HlnBKtmRvTlV9gVyuDV6ONeRdNyiYaG6FJQVJd0LhmLx0q6IoC-NWLUTABEw5AFaKW0sb46wZBtDaN), April 2026
 1. Interview with RTP3, April 2025 (PT)
 2. [Comentario ao impacto das tarifas nos mercados bolsistas, Antena 1](https://www.rtp.pt/play/p1467/e841824/programa-da-tarde), April 2025 (PT)
