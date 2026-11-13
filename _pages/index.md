@@ -49,7 +49,7 @@ layout: page
     - with Julian Kozlowski and Jeremy Majerovitz
     - *cited in the [2026 CEA Economic Report of the President](https://www.whitehouse.gov/wp-content/uploads/2026/04/2026-Economic-Report-of-the-President.pdf)*
 
-6. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_April2026.pdf), April 2026
+6. [An Empirical Analysis of the Cost of Borrowing](https:/mfariacastro.github.io/files/FJK_Nov2026.pdf), November 2026
     - with Sam Jordan-Wood and Julian Kozlowski
 
 7. [The St. Louis Fed DSGE Model](https:/mfariacastro.github.io/files/FRBSTL_DSGE.pdf), June 2026
